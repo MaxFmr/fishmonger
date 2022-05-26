@@ -1,8 +1,11 @@
 import type { NextPage } from 'next';
 import Head from 'next/head';
 import styles from '../styles/Home.module.css';
+import { Button } from '@mui/material';
+import { useRouter } from 'next/router';
 
 const Home: NextPage = () => {
+  const router = useRouter();
   return (
     <div className={styles.container}>
       <Head>
@@ -15,6 +18,13 @@ const Home: NextPage = () => {
         Votre Appli d'animation commerciale pour la traçabilité des produits de
         la mer.
       </h1>
+      <Button
+        onClick={() => {
+          router.push('/batches');
+        }}
+      >
+        Consulter les Achats
+      </Button>
 
       <footer className={styles.footer}>
         <span className={styles.logo}>Developped by KERLIDOU Family. </span>

@@ -33,7 +33,7 @@ interface IncomingBatch {
 }
 
 const readPersonas = async (req: NextApiRequest, res: NextApiResponse) => {
-  if (req.method === 'GET') {
+  if (req.method === 'POST') {
     let data = `${req.body.apiEmail}:${req.body.apiPassword}`;
     let buff = Buffer.from(data);
     let base64data = buff.toString('base64');
