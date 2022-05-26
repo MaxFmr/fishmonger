@@ -1,4 +1,4 @@
-import { TextField, Button } from '@mui/material';
+import { TextField, Button, Box } from '@mui/material';
 import { useState } from 'react';
 import axios from 'axios';
 
@@ -24,27 +24,44 @@ const Batches = (): JSX.Element => {
 
   return (
     <div>
-      <h1>Lots du jour</h1>
-      <TextField
-        onChange={(e) => {
-          setEmail(e.target.value);
-        }}
-        id='outlined-basic'
-        label='Email Abapp'
-        variant='outlined'
-      />
-      <TextField
-        onChange={(e) => {
-          setPassword(e.target.value);
-        }}
-        id='outlined-basic'
-        label='Mot de passe Abapp'
-        variant='outlined'
-        type='password'
-      />
+      <Box sx={{ display: 'flex', flexDirection: 'column' }}>
+        <Box
+          sx={{
+            width: '30%',
+            display: 'flex',
+            flexDirection: 'column',
+          }}
+        >
+          {' '}
+          <h1>Lots du jour</h1>
+          <TextField
+            onChange={(e) => {
+              setEmail(e.target.value);
+            }}
+            id='outlined-basic'
+            label='Email Abapp'
+            variant='outlined'
+            sx={{
+              margin: '10px',
+            }}
+          />
+          <TextField
+            onChange={(e) => {
+              setPassword(e.target.value);
+            }}
+            id='outlined-basic'
+            label='Mot de passe Abapp'
+            variant='outlined'
+            type='password'
+            sx={{
+              margin: '10px',
+            }}
+          />
+          <Button onClick={() => onSubmit()}>Envoyer</Button>
+        </Box>
 
-      <span>{response ? 'Go check your Db !' : null}</span>
-      <Button onClick={() => onSubmit()}>Envoyer</Button>
+        <span>{response ? 'Go check your Db !' : null}</span>
+      </Box>
     </div>
   );
 };
