@@ -13,9 +13,10 @@ datasource db {
 
 
 
-model mvtTracabapp {
+model MvtTracabapp {
 
   id Int     @id @default(autoincrement())
+  id2 String @unique
   date String
   heure String
   acheteur  String
@@ -34,13 +35,10 @@ model mvtTracabapp {
   codeTransaction String
   montantLot Float
   codeEngin String
-  libelleEngin String?
-  cotegorieEngin String?
   zonePeche String
   codeCfrNavire String
   marquageExtNavire String
   nomNavire String
-  IdAcheteur Int?
   
 }
 

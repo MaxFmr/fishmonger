@@ -2,10 +2,8 @@ import type { NextApiRequest, NextApiResponse } from 'next';
 
 import axios from 'axios';
 import { Buffer } from 'buffer';
-
+import prisma from '../../prisma/index';
 import { PrismaClient } from '@prisma/client';
-
-const prisma = new PrismaClient();
 
 interface IncomingBatch {
   lha_prix_kg: number;
@@ -18,7 +16,7 @@ interface IncomingBatch {
   lha_poids: number;
   lha_prix_lot: number;
   lha_type_bac: string;
-  nav_nom: string;
+  'nav_nom ': string;
   fra_code: string;
   cal_code: string;
   cpt_code_acheteur: string;
@@ -60,9 +58,13 @@ const readPersonas = async (req: NextApiRequest, res: NextApiResponse) => {
           },
         }
       );
+
       response.data.lignes.map(async (lot: IncomingBatch) => {
+        console.log(lot['nav_nom ']);
+
         const mvt = await prisma.mvtTracabapp.create({
           data: {
+            id2: `${lot.lha_date}${lot.lha_heure}`,
             date: lot.lha_date,
             heure: lot.lha_heure,
             acheteur: lot.cpt_code_acheteur,
@@ -84,7 +86,7 @@ const readPersonas = async (req: NextApiRequest, res: NextApiResponse) => {
             zonePeche: lot.lha_zone_de_peche,
             codeCfrNavire: lot.nav_code_cfr,
             marquageExtNavire: lot.nav_marquage_ext,
-            nomNavire: lot.nav_nom + ' ',
+            nomNavire: lot['nav_nom '],
           },
         });
       });
