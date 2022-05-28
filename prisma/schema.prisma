@@ -12,11 +12,10 @@ datasource db {
 
 
 
-
 model MvtTracabapp {
 
-  id Int     @id @default(autoincrement())
-  id2 String @unique
+  id Int      @id @default(autoincrement())
+  id2 String  @unique
   date String
   heure String
   acheteur  String
@@ -39,8 +38,5 @@ model MvtTracabapp {
   codeCfrNavire String
   marquageExtNavire String
   nomNavire String
-  
 }
-
-
 

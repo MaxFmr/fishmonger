@@ -3,7 +3,6 @@ import type { NextApiRequest, NextApiResponse } from 'next';
 import axios from 'axios';
 import { Buffer } from 'buffer';
 import prisma from '../../prisma/index';
-import { PrismaClient } from '@prisma/client';
 
 interface IncomingBatch {
   lha_prix_kg: number;
