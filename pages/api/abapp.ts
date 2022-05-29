@@ -59,11 +59,9 @@ const readPersonas = async (req: NextApiRequest, res: NextApiResponse) => {
       );
 
       response.data.lignes.map(async (lot: IncomingBatch) => {
-        console.log(lot['nav_nom ']);
-
         const mvt = await prisma.mvtTracabapp.create({
           data: {
-            id2: `${lot.lha_date}${lot.lha_heure}`,
+            id2: `${lot.lha_date}${lot.lha_heure}${lot.cri_code}${lot.lha_num_lot}`,
             date: lot.lha_date,
             heure: lot.lha_heure,
             acheteur: lot.cpt_code_acheteur,

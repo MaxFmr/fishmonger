@@ -1,0 +1,4277 @@
+﻿[
+    {
+        "codeEspece": "CIL",
+        "nomComun": "FEUILLE",
+        "nomLatin": "Citharus linguatula"
+    },
+    {
+        "codeEspece": "AWP",
+        "nomComun": "MACHOIRON JAUNE",
+        "nomLatin": "Aspistor parkeri"
+    },
+    {
+        "codeEspece": "CWZ",
+        "nomComun": "REQUINS CARCHARHINUS NCA",
+        "nomLatin": "Carcharhinus spp"
+    },
+    {
+        "codeEspece": "GPB",
+        "nomComun": "BADÈCHES NCA",
+        "nomLatin": "Mycteroperca spp"
+    },
+    {
+        "codeEspece": "LGQ",
+        "nomComun": "ACOUPA RIVIERE",
+        "nomLatin": "Plagioscion squamosissimus"
+    },
+    {
+        "codeEspece": "NBM",
+        "nomComun": "ACOUPA CELESTE",
+        "nomLatin": "Nebris microps"
+    },
+    {
+        "codeEspece": "SNL",
+        "nomComun": "VIVANEAU GAZOU/RAYÉ",
+        "nomLatin": "Lutjanus synagris"
+    },
+    {
+        "codeEspece": "SPN",
+        "nomComun": "requins marteau nca (genre)",
+        "nomLatin": "Sphyrna spp"
+    },
+    {
+        "codeEspece": "WKK",
+        "nomComun": "ACOUPA CHASSEUR",
+        "nomLatin": "Macrodon ancylodon"
+    },
+    {
+        "codeEspece": "YNM",
+        "nomComun": "ACOUPA CANAL",
+        "nomLatin": "Cynoscion microlepidotus"
+    },
+    {
+        "codeEspece": "CKM",
+        "nomComun": "TAMBOUR RAYE",
+        "nomLatin": "Micropogonias furnieri"
+    },
+    {
+        "codeEspece": "EET",
+        "nomComun": "MEROU GEANT",
+        "nomLatin": "Epinephelus itajara"
+    },
+    {
+        "codeEspece": "HIK",
+        "nomComun": "SOLE SOMBRE",
+        "nomLatin": "Achirus achirus"
+    },
+    {
+        "codeEspece": "ISA",
+        "nomComun": "Acoupa aile-courte",
+        "nomLatin": "Isopisthus parvipinnis"
+    },
+    {
+        "codeEspece": "KGB",
+        "nomComun": "Bourrugue de crique",
+        "nomLatin": "Menticirrhus americanus"
+    },
+    {
+        "codeEspece": "KGM",
+        "nomComun": "Thazard barré",
+        "nomLatin": "Scomberomorus cavalla"
+    },
+    {
+        "codeEspece": "KGX",
+        "nomComun": "thazards nca (genre)",
+        "nomLatin": "Scomberomorus spp"
+    },
+    {
+        "codeEspece": "KPS",
+        "nomComun": "Migraine jaune",
+        "nomLatin": "Calappa sulcata"
+    },
+    {
+        "codeEspece": "LHT",
+        "nomComun": "Poisson-sabre commun",
+        "nomLatin": "Trichiurus lepturus"
+    },
+    {
+        "codeEspece": "LNL",
+        "nomComun": "BARBICHE",
+        "nomLatin": "Lonchurus lanceolatus"
+    },
+    {
+        "codeEspece": "MGL",
+        "nomComun": "MULET",
+        "nomLatin": "Malacoglanis gelatinosus"
+    },
+    {
+        "codeEspece": "MKH",
+        "nomComun": "Badèche galopin",
+        "nomLatin": "Mycteroperca phenax"
+    },
+    {
+        "codeEspece": "NCQ",
+        "nomComun": "COFFRE TAUREAU",
+        "nomLatin": "Acanthostracion quadricornis"
+    },
+    {
+        "codeEspece": "OCZ",
+        "nomComun": "Poulpes nca",
+        "nomLatin": "Octopus spp"
+    },
+    {
+        "codeEspece": "PEQ",
+        "nomComun": "Alose-écaille fluviale",
+        "nomLatin": "Pellona flavipinnis"
+    },
+    {
+        "codeEspece": "SNA",
+        "nomComun": "Vivaneaux nca",
+        "nomLatin": "Lutjanus spp"
+    },
+    {
+        "codeEspece": "SNO",
+        "nomComun": "Crossie blanc",
+        "nomLatin": "Centropomus undecimalis"
+    },
+    {
+        "codeEspece": "TIG",
+        "nomComun": "requin tigre commun",
+        "nomLatin": "Galeocerdo cuvier"
+    },
+    {
+        "codeEspece": "WKX",
+        "nomComun": "Acoupas nca",
+        "nomLatin": "Cynoscion spp"
+    },
+    {
+        "codeEspece": "YRU",
+        "nomComun": "BECUNE GUACHANCHE",
+        "nomLatin": "Sphyraena guachancho"
+    },
+    {
+        "codeEspece": "SQR",
+        "nomComun": "ENCORNET",
+        "nomLatin": "Loligo vulgaris"
+    },
+    {
+        "codeEspece": "ONJ",
+        "nomComun": "CREVETTE ORANGE",
+        "nomLatin": "Solenocera acuminata"
+    },
+    {
+        "codeEspece": "PNB",
+        "nomComun": "Crevette royale rose",
+        "nomLatin": "Penaeus brasiliensis"
+    },
+    {
+        "codeEspece": "PNU",
+        "nomComun": "Crevette grise du Sud",
+        "nomLatin": "Penaeus subtilis"
+    },
+    {
+        "codeEspece": "BOB",
+        "nomComun": "Crevette seabob atlantique",
+        "nomLatin": "Xiphopenaeus kroyeri"
+    },
+    {
+        "codeEspece": "SSH",
+        "nomComun": "GAMBON ECARLATE",
+        "nomLatin": "Plesiopenaeus edwardsianus"
+    },
+    {
+        "codeEspece": "MGI",
+        "nomComun": "MULET PARASSI",
+        "nomLatin": "Mugil incilis"
+    },
+    {
+        "codeEspece": "MGU",
+        "nomComun": "MULET BLANC",
+        "nomLatin": "Mugil curema"
+    },
+    {
+        "codeEspece": "CBA",
+        "nomComun": "Mafou",
+        "nomLatin": "Rachycentron canadum"
+    },
+    {
+        "codeEspece": "CCL",
+        "nomComun": "Requin bordé",
+        "nomLatin": "Carcharhinus limbatus"
+    },
+    {
+        "codeEspece": "CVQ",
+        "nomComun": "Mâchoiron passany",
+        "nomLatin": "Sciades passany"
+    },
+    {
+        "codeEspece": "SPJ",
+        "nomComun": "Requin-marteau tiburo",
+        "nomLatin": "Sphyrna tiburo"
+    },
+    {
+        "codeEspece": "SPK",
+        "nomComun": "Grand requin marteau",
+        "nomLatin": "Sphyrna mokarran"
+    },
+    {
+        "codeEspece": "SPL",
+        "nomComun": "Requin-marteau halicorne",
+        "nomLatin": "Sphyrna lewini"
+    },
+    {
+        "codeEspece": "SPQ",
+        "nomComun": "Requin-marteau à petits yeux",
+        "nomLatin": "Sphyrna tudes"
+    },
+    {
+        "codeEspece": "CAX",
+        "nomComun": "Mâchoirons nca",
+        "nomLatin": "Ariidae"
+    },
+    {
+        "codeEspece": "RUB",
+        "nomComun": "Carangue coubali",
+        "nomLatin": "Caranx crysos"
+    },
+    {
+        "codeEspece": "STI",
+        "nomComun": "Pastenagues nca",
+        "nomLatin": "Dasyatis spp"
+    },
+    {
+        "codeEspece": "TDF",
+        "nomComun": "Crapauds nca",
+        "nomLatin": "Batrachoides spp"
+    },
+    {
+        "codeEspece": "LIJ",
+        "nomComun": "Cordonnier fil",
+        "nomLatin": "Alectis ciliaris"
+    },
+    {
+        "codeEspece": "SAI",
+        "nomComun": "VOILIER DE L ATLANTIQUE",
+        "nomLatin": "Istiophorus albicans"
+    },
+    {
+        "codeEspece": "RPN",
+        "nomComun": "ESCARGOT DE MER",
+        "nomLatin": "Rapana spp"
+    },
+    {
+        "codeEspece": "LDB",
+        "nomComun": "CARDINE A QUATRE TACHES",
+        "nomLatin": "Lepidorhombus boscii"
+    },
+    {
+        "codeEspece": "FST",
+        "nomComun": "FASCIOLAIRE TULIPE",
+        "nomLatin": "Fasciolaria tulipa"
+    },
+    {
+        "codeEspece": "AGN",
+        "nomComun": "ANGE DE MER COMMUN",
+        "nomLatin": "Squatina squatina"
+    },
+    {
+        "codeEspece": "ALB",
+        "nomComun": "thon germon",
+        "nomLatin": "Thunnus alalunga"
+    },
+    {
+        "codeEspece": "ALC",
+        "nomComun": "CASSIGNE",
+        "nomLatin": "Alepocephalus bairdii"
+    },
+    {
+        "codeEspece": "ALF",
+        "nomComun": "BERYX",
+        "nomLatin": "Beryx spp"
+    },
+    {
+        "codeEspece": "ALV",
+        "nomComun": "renard",
+        "nomLatin": "Alopias vulpinus"
+    },
+    {
+        "codeEspece": "AMB",
+        "nomComun": "sériole couronnée",
+        "nomLatin": "Seriola dumerili"
+    },
+    {
+        "codeEspece": "ANE",
+        "nomComun": "ANCHOIS COMMUN",
+        "nomLatin": "Engraulis encrasicolus"
+    },
+    {
+        "codeEspece": "ANN",
+        "nomComun": "SPARAILLON COMMUN",
+        "nomLatin": "Diplodus annularis"
+    },
+    {
+        "codeEspece": "ANX",
+        "nomComun": "anchois, etc. nca (famille)",
+        "nomLatin": "Engraulidae"
+    },
+    {
+        "codeEspece": "APU",
+        "nomComun": "ESTURGEON D'EUROPE OCCIDENTALE",
+        "nomLatin": "Acipenser sturio"
+    },
+    {
+        "codeEspece": "ARU",
+        "nomComun": "GRANDE ARGENTINE",
+        "nomLatin": "Argentina silus"
+    },
+    {
+        "codeEspece": "ARY",
+        "nomComun": "PETITE ARGENTINE",
+        "nomLatin": "Argentina sphyraena"
+    },
+    {
+        "codeEspece": "ASD",
+        "nomComun": "ALOSE VRAIE",
+        "nomLatin": "Alosa alosa"
+    },
+    {
+        "codeEspece": "BAR",
+        "nomComun": "bécunes nca (genre)",
+        "nomLatin": "Sphyraena spp"
+    },
+    {
+        "codeEspece": "BAS",
+        "nomComun": "SERRANIDES",
+        "nomLatin": "Serranus spp"
+    },
+    {
+        "codeEspece": "BET",
+        "nomComun": "thon obèse(=patudo)",
+        "nomLatin": "Thunnus obesus"
+    },
+    {
+        "codeEspece": "BFT",
+        "nomComun": "THON ROUGE",
+        "nomLatin": "Thunnus thynnus"
+    },
+    {
+        "codeEspece": "BIB",
+        "nomComun": "TACAUD COMMUN",
+        "nomLatin": "Trisopterus luscus"
+    },
+    {
+        "codeEspece": "BLE",
+        "nomComun": "BLENNIE",
+        "nomLatin": "Blenniidae"
+    },
+    {
+        "codeEspece": "BLF",
+        "nomComun": "THON A NAGEOIRES NOIRES",
+        "nomLatin": "Thunnus atlanticus"
+    },
+    {
+        "codeEspece": "BLI",
+        "nomComun": "LINGUE BLEUE",
+        "nomLatin": "Molva dypterygia"
+    },
+    {
+        "codeEspece": "BLL",
+        "nomComun": "BARBUE",
+        "nomLatin": "Scophthalmus rhombus"
+    },
+    {
+        "codeEspece": "BLU",
+        "nomComun": "TASSERGAL",
+        "nomLatin": "Pomatomus saltatrix"
+    },
+    {
+        "codeEspece": "BOC",
+        "nomComun": "SANGLIER",
+        "nomLatin": "Capros aper"
+    },
+    {
+        "codeEspece": "BOG",
+        "nomComun": "BOGUE",
+        "nomLatin": "Boops boops"
+    },
+    {
+        "codeEspece": "BON",
+        "nomComun": "BONITE A DOS RAYE",
+        "nomLatin": "Sarda sarda"
+    },
+    {
+        "codeEspece": "BOY",
+        "nomComun": "MUREX DROITE EPINE",
+        "nomLatin": "Bolinus brandaris"
+    },
+    {
+        "codeEspece": "BRB",
+        "nomComun": "GRISET dît DORADE GRISE",
+        "nomLatin": "Spondyliosoma cantharus"
+    },
+    {
+        "codeEspece": "BRF",
+        "nomComun": "SEBASTE CHEVRE",
+        "nomLatin": "Helicolenus dactylopterus"
+    },
+    {
+        "codeEspece": "BSF",
+        "nomComun": "SABRE NOIR",
+        "nomLatin": "Aphanopus carbo"
+    },
+    {
+        "codeEspece": "BSH",
+        "nomComun": "peau bleue (requin peau bleue)",
+        "nomLatin": "Prionace glauca"
+    },
+    {
+        "codeEspece": "BSK",
+        "nomComun": "REQUIN PELERIN",
+        "nomLatin": "Cetorhinus maximus"
+    },
+    {
+        "codeEspece": "BSS",
+        "nomComun": "BAR COMMUN OU EUROPEEN",
+        "nomLatin": "Dicentrarchus labrax"
+    },
+    {
+        "codeEspece": "BUM",
+        "nomComun": "marlin bleu (makaire bleu)",
+        "nomLatin": "Makaira nigricans"
+    },
+    {
+        "codeEspece": "CAA",
+        "nomComun": "LOUP DE L'ATLANTIQUE",
+        "nomLatin": "Anarhichas lupus"
+    },
+    {
+        "codeEspece": "CAP",
+        "nomComun": "CAPELAN ATLANTIQUE",
+        "nomLatin": "Mallotus villosus"
+    },
+    {
+        "codeEspece": "CBC",
+        "nomComun": "CEPOLE COMMUNE",
+        "nomLatin": "Cepola macrophthalma"
+    },
+    {
+        "codeEspece": "CEO",
+        "nomComun": "CENTROLOPHE NOIR",
+        "nomLatin": "Centrolophus niger"
+    },
+    {
+        "codeEspece": "CEP",
+        "nomComun": "DIVERS CEPHALOPODES",
+        "nomLatin": "Cephalopoda"
+    },
+    {
+        "codeEspece": "CET",
+        "nomComun": "CETEAU",
+        "nomLatin": "Dicologlossa cuneata"
+    },
+    {
+        "codeEspece": "CFB",
+        "nomComun": "AIGUILLAT NOIR",
+        "nomLatin": "Centroscyllium fabricii"
+    },
+    {
+        "codeEspece": "CLH",
+        "nomComun": "CLAM",
+        "nomLatin": "Mercenaria mercenaria"
+    },
+    {
+        "codeEspece": "CLJ",
+        "nomComun": "PALOURDE CROISEE JAPONAISE",
+        "nomLatin": "Ruditapes philippinarum"
+    },
+    {
+        "codeEspece": "CLV",
+        "nomComun": "Petites praires nca",
+        "nomLatin": "Veneridae"
+    },
+    {
+        "codeEspece": "CLX",
+        "nomComun": "DIV. CLAMS, COQUE, ETC...",
+        "nomLatin": "Bivalvia"
+    },
+    {
+        "codeEspece": "COB",
+        "nomComun": "Ombrine côtière",
+        "nomLatin": "Umbrina cirrosa"
+    },
+    {
+        "codeEspece": "COC",
+        "nomComun": "COQUE",
+        "nomLatin": "Cerastoderma edule"
+    },
+    {
+        "codeEspece": "COD",
+        "nomComun": "MORUE COMMUNE",
+        "nomLatin": "Gadus morhua"
+    },
+    {
+        "codeEspece": "COE",
+        "nomComun": "CONGRE",
+        "nomLatin": "Conger conger"
+    },
+    {
+        "codeEspece": "COZ",
+        "nomComun": "COQUES",
+        "nomLatin": "Cardiidae"
+    },
+    {
+        "codeEspece": "CPR",
+        "nomComun": "BOUQUET dîte CREVETTE ROSE",
+        "nomLatin": "Palaemon serratus"
+    },
+    {
+        "codeEspece": "CRE",
+        "nomComun": "TOURTEAU dît CRABE",
+        "nomLatin": "Cancer pagurus"
+    },
+    {
+        "codeEspece": "CRG",
+        "nomComun": "CRABE VERT D'EUROPE",
+        "nomLatin": "Carcinus maenas"
+    },
+    {
+        "codeEspece": "CRU",
+        "nomComun": "DIVERS CRUSTACES MARINS",
+        "nomLatin": "Crustacea"
+    },
+    {
+        "codeEspece": "CSH",
+        "nomComun": "CREVETTE GRISE",
+        "nomLatin": "Crangon crangon"
+    },
+    {
+        "codeEspece": "CTB",
+        "nomComun": "SAR A TETE NOIRE",
+        "nomLatin": "Diplodus vulgaris"
+    },
+    {
+        "codeEspece": "CTC",
+        "nomComun": "SEICHE COMMUNE",
+        "nomLatin": "Sepia officinalis"
+    },
+    {
+        "codeEspece": "CTG",
+        "nomComun": "PALOURDE CROISEE D'EUROPE dîte GRISE",
+        "nomLatin": "Ruditapes decussatus"
+    },
+    {
+        "codeEspece": "CTL",
+        "nomComun": "SEICHES ET SEPIOLES",
+        "nomLatin": "Sepiidae, Sepiolidae"
+    },
+    {
+        "codeEspece": "CTZ",
+        "nomComun": "GRONDIN CAMARD",
+        "nomLatin": "Chelidonichthys lastoviza"
+    },
+    {
+        "codeEspece": "CYO",
+        "nomComun": "PAILONA COMMUN dît VRAI SIKI",
+        "nomLatin": "Centroscymnus coelolepis"
+    },
+    {
+        "codeEspece": "CYP",
+        "nomComun": "PAILONA A LONG NEZ",
+        "nomLatin": "Centroscymnus crepidater"
+    },
+    {
+        "codeEspece": "DAB",
+        "nomComun": "LIMANDE COMMUNE",
+        "nomLatin": "Limanda limanda"
+    },
+    {
+        "codeEspece": "DEC",
+        "nomComun": "DENTE COMMUN",
+        "nomLatin": "Dentex dentex"
+    },
+    {
+        "codeEspece": "DGS",
+        "nomComun": "AIGUILLAT COMMUN",
+        "nomLatin": "Squalus acanthias"
+    },
+    {
+        "codeEspece": "DGX",
+        "nomComun": "squales, requins zépines nca (famille)",
+        "nomLatin": "Squalidae"
+    },
+    {
+        "codeEspece": "DIA",
+        "nomComun": "DIV. POISSONS DIADROMES",
+        "nomLatin": "Osteichthyes"
+    },
+    {
+        "codeEspece": "DON",
+        "nomComun": "FLIONS",
+        "nomLatin": "Donax spp"
+    },
+    {
+        "codeEspece": "DPS",
+        "nomComun": "CREVETTE ROSE DU LARGE",
+        "nomLatin": "Parapenaeus longirostris"
+    },
+    {
+        "codeEspece": "EJE",
+        "nomComun": "SEICHE ELEGANTE",
+        "nomLatin": "Sepia elegans"
+    },
+    {
+        "codeEspece": "ELE",
+        "nomComun": "ANGUILLE D'EUROPE",
+        "nomLatin": "Anguilla anguilla"
+    },
+    {
+        "codeEspece": "EOI",
+        "nomComun": "Élédone commune",
+        "nomLatin": "Eledone cirrhosa"
+    },
+    {
+        "codeEspece": "EPI",
+        "nomComun": "SONNEUR COMMUN",
+        "nomLatin": "Epigonus telescopus"
+    },
+    {
+        "codeEspece": "FCP",
+        "nomComun": "CARPE",
+        "nomLatin": "Cyprinus carpio"
+    },
+    {
+        "codeEspece": "FLE",
+        "nomComun": "FLET COMMUN",
+        "nomLatin": "Platichthys flesus"
+    },
+    {
+        "codeEspece": "FLW",
+        "nomComun": "LIMANDE-PLIE ROUGE",
+        "nomLatin": "Pseudopleuronectes americanus"
+    },
+    {
+        "codeEspece": "FLX",
+        "nomComun": "poissons plats nca (groupe)",
+        "nomLatin": "Pleuronectiformes"
+    },
+    {
+        "codeEspece": "FOR",
+        "nomComun": "PHYCIS DE ROCHE",
+        "nomLatin": "Phycis phycis"
+    },
+    {
+        "codeEspece": "FPP",
+        "nomComun": "SANDRE",
+        "nomLatin": "SANDER LUCIOPERCA"
+    },
+    {
+        "codeEspece": "FRI",
+        "nomComun": "AUXIDE",
+        "nomLatin": "Auxis thazard"
+    },
+    {
+        "codeEspece": "GAD",
+        "nomComun": "DIVERS GADIFORMES (GADIDES ET MERLUCIIDES)",
+        "nomLatin": "Gadiformes"
+    },
+    {
+        "codeEspece": "GAG",
+        "nomComun": "REQUIN-HA",
+        "nomLatin": "Galeorhinus galeus"
+    },
+    {
+        "codeEspece": "GAR",
+        "nomComun": "ORPHIE COMMUNE",
+        "nomLatin": "Belone belone"
+    },
+    {
+        "codeEspece": "GAS",
+        "nomComun": "DIV. ORMEAUX,BIGORNEAUX,STROMB",
+        "nomLatin": "Gastropoda"
+    },
+    {
+        "codeEspece": "GFB",
+        "nomComun": "PHYCIS DE FOND",
+        "nomLatin": "Phycis blennoides"
+    },
+    {
+        "codeEspece": "GHL",
+        "nomComun": "FLETAN NOIR COMMUN",
+        "nomLatin": "Reinhardtius hippoglossoides"
+    },
+    {
+        "codeEspece": "GKL",
+        "nomComun": "AMANDE DE MER",
+        "nomLatin": "Glycymeris glycymeris"
+    },
+    {
+        "codeEspece": "GOB",
+        "nomComun": "GOBIES",
+        "nomLatin": "Gobius spp"
+    },
+    {
+        "codeEspece": "GPD",
+        "nomComun": "MEROU NOIR",
+        "nomLatin": "Epinephelus marginatus"
+    },
+    {
+        "codeEspece": "GSM",
+        "nomComun": "PETITE SOLE JAUNE",
+        "nomLatin": "Buglossidium luteum"
+    },
+    {
+        "codeEspece": "GUG",
+        "nomComun": "GRONDIN GRIS",
+        "nomLatin": "Eutrigla gurnardus"
+    },
+    {
+        "codeEspece": "GUN",
+        "nomComun": "GRONDIN LYRE",
+        "nomLatin": "Trigla lyra"
+    },
+    {
+        "codeEspece": "GUQ",
+        "nomComun": "SQUALE CHAGRIN DE L'ATLANTIQUE dît FAUX SIKI, COCHON",
+        "nomLatin": "Centrophorus squamosus"
+    },
+    {
+        "codeEspece": "GUR",
+        "nomComun": "GRONDIN ROUGE",
+        "nomLatin": "Aspitrigla cuculus"
+    },
+    {
+        "codeEspece": "GUU",
+        "nomComun": "GRONDIN PERLON",
+        "nomLatin": "Chelidonichthys lucerna"
+    },
+    {
+        "codeEspece": "GUX",
+        "nomComun": "grondins, cavillones nca (famille)",
+        "nomLatin": "Triglidae"
+    },
+    {
+        "codeEspece": "HAD",
+        "nomComun": "EGLEFIN",
+        "nomLatin": "Melanogrammus aeglefinus"
+    },
+    {
+        "codeEspece": "HAL",
+        "nomComun": "FLETAN DE L'ATLANTIQUE",
+        "nomLatin": "Hippoglossus hippoglossus"
+    },
+    {
+        "codeEspece": "HER",
+        "nomComun": "HARENG COMMUN",
+        "nomLatin": "Clupea harengus"
+    },
+    {
+        "codeEspece": "HKE",
+        "nomComun": "MERLU COMMUN",
+        "nomLatin": "Merluccius merluccius"
+    },
+    {
+        "codeEspece": "HKO",
+        "nomComun": "MERLU NOIR DU CAP",
+        "nomLatin": "Merluccius paradoxus"
+    },
+    {
+        "codeEspece": "HLT",
+        "nomComun": "ORMEAU",
+        "nomLatin": "Haliotis tuberculata"
+    },
+    {
+        "codeEspece": "HMM",
+        "nomComun": "CHINCHARD A QUEUE JAUNE",
+        "nomLatin": "Trachurus mediterraneus"
+    },
+    {
+        "codeEspece": "HOL",
+        "nomComun": "Chimères, etc. nca",
+        "nomLatin": "Chimaeriformes"
+    },
+    {
+        "codeEspece": "HOM",
+        "nomComun": "CHINCHARD COMMUN",
+        "nomLatin": "Trachurus trachurus"
+    },
+    {
+        "codeEspece": "HPR",
+        "nomComun": "EMPEREUR DE MEDITERRANEE",
+        "nomLatin": "Hoplostethus mediterraneus"
+    },
+    {
+        "codeEspece": "HYD",
+        "nomComun": "DIV. CHIMERES",
+        "nomLatin": "Hydrolagus spp"
+    },
+    {
+        "codeEspece": "IAR",
+        "nomComun": "SEICHE ROSEE",
+        "nomLatin": "Sepia orbignyana"
+    },
+    {
+        "codeEspece": "ILL",
+        "nomComun": "ENCORNETS ROUGES",
+        "nomLatin": "Illex spp"
+    },
+    {
+        "codeEspece": "INV",
+        "nomComun": "DIVERS OURSINS, BECHES DE MER",
+        "nomLatin": "Invertebrata"
+    },
+    {
+        "codeEspece": "JCR",
+        "nomComun": "HOLOTURIE JAUNE",
+        "nomLatin": "Stichopus regalis"
+    },
+    {
+        "codeEspece": "JDP",
+        "nomComun": "PASTENAGUE COMMUNE",
+        "nomLatin": "Dasyatis pastinaca"
+    },
+    {
+        "codeEspece": "JOD",
+        "nomComun": "SAINT-PIERRE",
+        "nomLatin": "Zeus faber"
+    },
+    {
+        "codeEspece": "JRS",
+        "nomComun": "RAIE ETOILEE",
+        "nomLatin": "Raja asterias"
+    },
+    {
+        "codeEspece": "KFA",
+        "nomComun": "VENUS CHAMBRIERE",
+        "nomLatin": "Circomphalus casinus"
+    },
+    {
+        "codeEspece": "KLK",
+        "nomComun": "VERNIS",
+        "nomLatin": "Callista chione"
+    },
+    {
+        "codeEspece": "KUP",
+        "nomComun": "CREVETTE KURUMA",
+        "nomLatin": "Penaeus japonicus"
+    },
+    {
+        "codeEspece": "LAU",
+        "nomComun": "LAMPROIE MARINE",
+        "nomLatin": "Petromyzon marinus"
+    },
+    {
+        "codeEspece": "LBE",
+        "nomComun": "HOMARD EUROPEEN",
+        "nomLatin": "Homarus gammarus"
+    },
+    {
+        "codeEspece": "LEE",
+        "nomComun": "LICHE DE L'ATLANTIQUE",
+        "nomLatin": "Lichia amia"
+    },
+    {
+        "codeEspece": "LEF",
+        "nomComun": "ARNOGLOSSE",
+        "nomLatin": "Bothidae"
+    },
+    {
+        "codeEspece": "LEM",
+        "nomComun": "LIMANDE-SOLE COMMUNE",
+        "nomLatin": "Microstomus kitt"
+    },
+    {
+        "codeEspece": "LEZ",
+        "nomComun": "CARDINES",
+        "nomLatin": "Lepidorhombus spp"
+    },
+    {
+        "codeEspece": "LIN",
+        "nomComun": "LINGUE FRANCHE",
+        "nomLatin": "Molva molva"
+    },
+    {
+        "codeEspece": "LIO",
+        "nomComun": "ETRILLE",
+        "nomLatin": "Necora puber"
+    },
+    {
+        "codeEspece": "LOQ",
+        "nomComun": "GALATHEES",
+        "nomLatin": "Galatheidae"
+    },
+    {
+        "codeEspece": "LOY",
+        "nomComun": "LANGOUSTE ROYALE",
+        "nomLatin": "Panulirus regius"
+    },
+    {
+        "codeEspece": "LTA",
+        "nomComun": "THONINE COMMUNE",
+        "nomLatin": "Euthynnus alletteratus"
+    },
+    {
+        "codeEspece": "LYY",
+        "nomComun": "DRAGONET",
+        "nomLatin": "Callionymus lyra"
+    },
+    {
+        "codeEspece": "LZS",
+        "nomComun": "MULET SAUTEUR",
+        "nomLatin": "Liza saliens"
+    },
+    {
+        "codeEspece": "MAC",
+        "nomComun": "MAQUEREAU COMMUN",
+        "nomLatin": "Scomber scombrus"
+    },
+    {
+        "codeEspece": "MAS",
+        "nomComun": "MAQUEREAU ESPAGNOL",
+        "nomLatin": "Scomber japonicus"
+    },
+    {
+        "codeEspece": "MEG",
+        "nomComun": "CARDINE FRANCHE",
+        "nomLatin": "Lepidorhombus whiffiagonis"
+    },
+    {
+        "codeEspece": "MGA",
+        "nomComun": "MULET DORE",
+        "nomLatin": "Liza aurata"
+    },
+    {
+        "codeEspece": "MGC",
+        "nomComun": "MULET PORC",
+        "nomLatin": "Liza ramada"
+    },
+    {
+        "codeEspece": "MGR",
+        "nomComun": "MAIGRE COMMUN",
+        "nomLatin": "Argyrosomus regius"
+    },
+    {
+        "codeEspece": "MGS",
+        "nomComun": "MULETS SPP",
+        "nomLatin": "Mugil spp"
+    },
+    {
+        "codeEspece": "MKG",
+        "nomComun": "SOLE-PERDRIX",
+        "nomLatin": "Microchirus variegatus"
+    },
+    {
+        "codeEspece": "MLR",
+        "nomComun": "MULET LIPPU",
+        "nomLatin": "Chelon labrosus"
+    },
+    {
+        "codeEspece": "MLS",
+        "nomComun": "marlin rayé",
+        "nomLatin": "Tetrapturus audax"
+    },
+    {
+        "codeEspece": "MMH",
+        "nomComun": "MURENE DE MEDITERRANEE",
+        "nomLatin": "Muraena helena"
+    },
+    {
+        "codeEspece": "MNZ",
+        "nomComun": "BAUDROIES",
+        "nomLatin": "Lophius spp"
+    },
+    {
+        "codeEspece": "MOX",
+        "nomComun": "POISSON LUNE",
+        "nomLatin": "Mola mola"
+    },
+    {
+        "codeEspece": "MUF",
+        "nomComun": "MULET CABOT",
+        "nomLatin": "Mugil cephalus"
+    },
+    {
+        "codeEspece": "MUL",
+        "nomComun": "mulets nca (famille)",
+        "nomLatin": "Mugilidae"
+    },
+    {
+        "codeEspece": "MUR",
+        "nomComun": "ROUGET-BARBET DE ROCHE",
+        "nomLatin": "Mullus surmuletus"
+    },
+    {
+        "codeEspece": "MYL",
+        "nomComun": "AIGLE DE MER COMMUN",
+        "nomLatin": "Myliobatis aquila"
+    },
+    {
+        "codeEspece": "MYV",
+        "nomComun": "MOULES",
+        "nomLatin": "Mytilus spp"
+    },
+    {
+        "codeEspece": "MZZ",
+        "nomComun": "Poissons marins nca",
+        "nomLatin": "Osteichthyes"
+    },
+    {
+        "codeEspece": "NAU",
+        "nomComun": "Poisson pilote",
+        "nomLatin": "Naucrates ductor"
+    },
+    {
+        "codeEspece": "NEP",
+        "nomComun": "LANGOUSTINE",
+        "nomLatin": "Nephrops norvegicus"
+    },
+    {
+        "codeEspece": "NSQ",
+        "nomComun": "Nasse-ceinture",
+        "nomLatin": "Nassarius mutabilis"
+    },
+    {
+        "codeEspece": "OAL",
+        "nomComun": "SOLE DU SENEGAL",
+        "nomLatin": "Solea senegalensis"
+    },
+    {
+        "codeEspece": "OCC",
+        "nomComun": "PIEUVRE",
+        "nomLatin": "Octopus vulgaris"
+    },
+    {
+        "codeEspece": "OCT",
+        "nomComun": "pieuvres, poulpes nca (groupe)",
+        "nomLatin": "Octopodidae"
+    },
+    {
+        "codeEspece": "ODL",
+        "nomComun": "MULET LABEON",
+        "nomLatin": "Oedalechilus labeo"
+    },
+    {
+        "codeEspece": "OOA",
+        "nomComun": "DONZELLE",
+        "nomLatin": "Ophidion barbatum"
+    },
+    {
+        "codeEspece": "ORY",
+        "nomComun": "HOPLOSTETE ROUGE",
+        "nomLatin": "Hoplostethus atlanticus"
+    },
+    {
+        "codeEspece": "OSG",
+        "nomComun": "BROCHE",
+        "nomLatin": "Spectrunculus grandis"
+    },
+    {
+        "codeEspece": "OUW",
+        "nomComun": "Casserons nca",
+        "nomLatin": "Alloteuthis spp"
+    },
+    {
+        "codeEspece": "OYC",
+        "nomComun": "HUITRES CREUSES",
+        "nomLatin": "Crassostrea spp"
+    },
+    {
+        "codeEspece": "OYF",
+        "nomComun": "HUITRE PLATE",
+        "nomLatin": "Ostrea edulis"
+    },
+    {
+        "codeEspece": "PAC",
+        "nomComun": "PAGEOT COMMUN",
+        "nomLatin": "Pagellus erythrinus"
+    },
+    {
+        "codeEspece": "PCB",
+        "nomComun": "POUCE-PIED",
+        "nomLatin": "Pollicipes pollicipes"
+    },
+    {
+        "codeEspece": "PEE",
+        "nomComun": "BIGORNEAU",
+        "nomLatin": "Littorina littorea"
+    },
+    {
+        "codeEspece": "PIL",
+        "nomComun": "SARDINE COMMUNE",
+        "nomLatin": "Sardina pilchardus"
+    },
+    {
+        "codeEspece": "PLA",
+        "nomComun": "BALAI DE L'ATLANTIQUE",
+        "nomLatin": "Hippoglossoides platessoides"
+    },
+    {
+        "codeEspece": "PLE",
+        "nomComun": "PLIE COMMUNE",
+        "nomLatin": "Pleuronectes platessa"
+    },
+    {
+        "codeEspece": "POA",
+        "nomComun": "GRANDE CASTAGNOLE",
+        "nomLatin": "Brama brama"
+    },
+    {
+        "codeEspece": "POD",
+        "nomComun": "CAPELAN DE MEDITERRANEE",
+        "nomLatin": "Trisopterus minutus"
+    },
+    {
+        "codeEspece": "POK",
+        "nomComun": "LIEU NOIR",
+        "nomLatin": "Pollachius virens"
+    },
+    {
+        "codeEspece": "POL",
+        "nomComun": "LIEU JAUNE",
+        "nomLatin": "Pollachius pollachius"
+    },
+    {
+        "codeEspece": "POP",
+        "nomComun": "PALOMINE",
+        "nomLatin": "Trachinotus ovatus"
+    },
+    {
+        "codeEspece": "POR",
+        "nomComun": "REQUIN TAUPE COMMUN",
+        "nomLatin": "Lamna nasus"
+    },
+    {
+        "codeEspece": "PRA",
+        "nomComun": "CREVETTE NORDIQUE",
+        "nomLatin": "Pandalus borealis"
+    },
+    {
+        "codeEspece": "PSL",
+        "nomComun": "LANGOUSTE ROSE",
+        "nomLatin": "Palinurus mauritanicus"
+    },
+    {
+        "codeEspece": "QSC",
+        "nomComun": "PETONCLE VANNEAU dit PETONCLE BLANC",
+        "nomLatin": "Aequipecten opercularis"
+    },
+    {
+        "codeEspece": "QTV",
+        "nomComun": "PATELLE DE L'ATLANTIQUE",
+        "nomLatin": "Patella vulgata"
+    },
+    {
+        "codeEspece": "RAJ",
+        "nomComun": "Rajidés nca",
+        "nomLatin": "Rajidae"
+    },
+    {
+        "codeEspece": "RAZ",
+        "nomComun": "COUTEAUX",
+        "nomLatin": "Solen spp"
+    },
+    {
+        "codeEspece": "RED",
+        "nomComun": "SEBASTES DE L'ATLANTIQUE NORD",
+        "nomLatin": "Sebastes spp"
+    },
+    {
+        "codeEspece": "RHG",
+        "nomComun": "GRENADIER GRIS (RAT)",
+        "nomLatin": "Macrourus berglax"
+    },
+    {
+        "codeEspece": "RIB",
+        "nomComun": "MORO",
+        "nomLatin": "Mora moro"
+    },
+    {
+        "codeEspece": "RJA",
+        "nomComun": "RAIE BLANCHE",
+        "nomLatin": "Raja alba"
+    },
+    {
+        "codeEspece": "RJB",
+        "nomComun": "POCHETEAU GRIS",
+        "nomLatin": "Raja batis"
+    },
+    {
+        "codeEspece": "RJC",
+        "nomComun": "RAIE BOUCLEE",
+        "nomLatin": "Raja clavata"
+    },
+    {
+        "codeEspece": "RJE",
+        "nomComun": "RAIE MELEE",
+        "nomLatin": "Raja microocellata"
+    },
+    {
+        "codeEspece": "RJF",
+        "nomComun": "RAIE CHARDON",
+        "nomLatin": "Raja fullonica"
+    },
+    {
+        "codeEspece": "RJH",
+        "nomComun": "RAIE LISSE dîte BLONDE",
+        "nomLatin": "Raja brachyura"
+    },
+    {
+        "codeEspece": "RJI",
+        "nomComun": "RAIE CIRCULAIRE",
+        "nomLatin": "Raja circularis"
+    },
+    {
+        "codeEspece": "RJM",
+        "nomComun": "RAIE DOUCE",
+        "nomLatin": "Raja montagui"
+    },
+    {
+        "codeEspece": "RJN",
+        "nomComun": "RAIE FLEURIE",
+        "nomLatin": "Raja naevus"
+    },
+    {
+        "codeEspece": "RJO",
+        "nomComun": "POCHETEAU NOIR",
+        "nomLatin": "Raja oxyrinchus"
+    },
+    {
+        "codeEspece": "RJR",
+        "nomComun": "RAIE RADIEE",
+        "nomLatin": "Raja radiata"
+    },
+    {
+        "codeEspece": "RJU",
+        "nomComun": "RAIE BRUNETTE",
+        "nomLatin": "Raja undulata"
+    },
+    {
+        "codeEspece": "RNG",
+        "nomComun": "GRENADIER DE ROCHE",
+        "nomLatin": "Coryphaenoides rupestris"
+    },
+    {
+        "codeEspece": "ROL",
+        "nomComun": "MOTELLES",
+        "nomLatin": "Gaidropsarus spp"
+    },
+    {
+        "codeEspece": "RPG",
+        "nomComun": "PAGRE COMMUN",
+        "nomLatin": "Pagrus pagrus"
+    },
+    {
+        "codeEspece": "SAA",
+        "nomComun": "ALLACHE",
+        "nomLatin": "Sardinella aurita"
+    },
+    {
+        "codeEspece": "SAL",
+        "nomComun": "SAUMON ATLANTIQUE",
+        "nomLatin": "Salmo salar"
+    },
+    {
+        "codeEspece": "SAN",
+        "nomComun": "LANCONS",
+        "nomLatin": "Ammodytes spp"
+    },
+    {
+        "codeEspece": "SBA",
+        "nomComun": "PAGEOT ACARNE",
+        "nomLatin": "Pagellus acarne"
+    },
+    {
+        "codeEspece": "SBG",
+        "nomComun": "DORADE ROYALE",
+        "nomLatin": "Sparus aurata"
+    },
+    {
+        "codeEspece": "SBL",
+        "nomComun": "REQUIN GRISET",
+        "nomLatin": "Hexanchus griseus"
+    },
+    {
+        "codeEspece": "SBR",
+        "nomComun": "DORADE ROSE dît PAGEOT",
+        "nomLatin": "Pagellus bogaraveo"
+    },
+    {
+        "codeEspece": "SBS",
+        "nomComun": "OBLADE",
+        "nomLatin": "Oblada melanura"
+    },
+    {
+        "codeEspece": "SBZ",
+        "nomComun": "SAR A GROSSES LEVRES",
+        "nomLatin": "Diplodus cervinus"
+    },
+    {
+        "codeEspece": "SCE",
+        "nomComun": "COQUILLE ST JACQUES",
+        "nomLatin": "Pecten maximus"
+    },
+    {
+        "codeEspece": "SCK",
+        "nomComun": "SQUALE LICHE",
+        "nomLatin": "Dalatias licha"
+    },
+    {
+        "codeEspece": "SCL",
+        "nomComun": "ROUSSETTES",
+        "nomLatin": "SCYLIORHINUS SPP"
+    },
+    {
+        "codeEspece": "SCO",
+        "nomComun": "rascasses, etc. nca (famille)",
+        "nomLatin": "Scorpaenidae"
+    },
+    {
+        "codeEspece": "SCR",
+        "nomComun": "ARAIGNEE DE MER",
+        "nomLatin": "Maja squinado"
+    },
+    {
+        "codeEspece": "SCS",
+        "nomComun": "RASCASSES",
+        "nomLatin": "Scorpaena spp"
+    },
+    {
+        "codeEspece": "SCY",
+        "nomComun": "PETITE CIGALE",
+        "nomLatin": "Scyllarus arctus"
+    },
+    {
+        "codeEspece": "SDV",
+        "nomComun": "EMISSOLES",
+        "nomLatin": "Mustelus spp"
+    },
+    {
+        "codeEspece": "SFS",
+        "nomComun": "SABRE ARGENTE",
+        "nomLatin": "Lepidopus caudatus"
+    },
+    {
+        "codeEspece": "SHD",
+        "nomComun": "ALOSE D'EUROPE (ALOSE VRAIE ET ALOSE FEINTE)",
+        "nomLatin": "Alosa alosa, A. fallax"
+    },
+    {
+        "codeEspece": "SHL",
+        "nomComun": "SAGRES",
+        "nomLatin": "Etmopterus spp"
+    },
+    {
+        "codeEspece": "SHR",
+        "nomComun": "SAR A MUSEAU POINTU",
+        "nomLatin": "Diplodus puntazzo"
+    },
+    {
+        "codeEspece": "SIL",
+        "nomComun": "athérinidés nca (famille)",
+        "nomLatin": "Atherinidae"
+    },
+    {
+        "codeEspece": "SJA",
+        "nomComun": "COQUILLE ST JACQUES DE MEDITERRANEE",
+        "nomLatin": "Pecten jacobaeus"
+    },
+    {
+        "codeEspece": "SKA",
+        "nomComun": "RAIES ET POCHETEAUX",
+        "nomLatin": "Raja spp"
+    },
+    {
+        "codeEspece": "SKJ",
+        "nomComun": "listao (bonite à ventre rayé)",
+        "nomLatin": "Katsuwonus pelamis"
+    },
+    {
+        "codeEspece": "SLM",
+        "nomComun": "SAUPE",
+        "nomLatin": "Sarpa salpa"
+    },
+    {
+        "codeEspece": "SLO",
+        "nomComun": "LANGOUSTE ROUGE",
+        "nomLatin": "Palinurus elephas"
+    },
+    {
+        "codeEspece": "SLZ",
+        "nomComun": "DIVERS OSMERIFORMES ET SALMONIFORMES (SAUMON,TRUITE,...)",
+        "nomLatin": "Salmonidae"
+    },
+    {
+        "codeEspece": "SMA",
+        "nomComun": "taupe bleue",
+        "nomLatin": "Isurus oxyrinchus"
+    },
+    {
+        "codeEspece": "SME",
+        "nomComun": "EPERLAN D'EUROPE",
+        "nomLatin": "Osmerus eperlanus"
+    },
+    {
+        "codeEspece": "SOL",
+        "nomComun": "SOLE COMMUNE",
+        "nomLatin": "Solea solea"
+    },
+    {
+        "codeEspece": "SOS",
+        "nomComun": "SOLE-POLE",
+        "nomLatin": "Solea lascaris"
+    },
+    {
+        "codeEspece": "SPC",
+        "nomComun": "PICAREL",
+        "nomLatin": "Spicara smaris"
+    },
+    {
+        "codeEspece": "SPR",
+        "nomComun": "SPRAT",
+        "nomLatin": "Sprattus sprattus"
+    },
+    {
+        "codeEspece": "SPU",
+        "nomComun": "BAR TACHETE",
+        "nomLatin": "Dicentrarchus punctatus"
+    },
+    {
+        "codeEspece": "SQY",
+        "nomComun": "SQUILLE",
+        "nomLatin": "Squillidae"
+    },
+    {
+        "codeEspece": "SQZ",
+        "nomComun": "CALMARS",
+        "nomLatin": "Loliginidae"
+    },
+    {
+        "codeEspece": "SSB",
+        "nomComun": "MARBRE COMMUN",
+        "nomLatin": "Lithognathus mormyrus"
+    },
+    {
+        "codeEspece": "SSD",
+        "nomComun": "SPISULES",
+        "nomLatin": "Spisula spp"
+    },
+    {
+        "codeEspece": "SSG",
+        "nomComun": "VIOLET",
+        "nomLatin": "Microcosmus sulcatus"
+    },
+    {
+        "codeEspece": "SWA",
+        "nomComun": "SAR COMMUN",
+        "nomLatin": "Diplodus sargus"
+    },
+    {
+        "codeEspece": "SWO",
+        "nomComun": "espadon",
+        "nomLatin": "Xiphias gladius"
+    },
+    {
+        "codeEspece": "SYC",
+        "nomComun": "PETITE ROUSSETTE",
+        "nomLatin": "Scyliorhinus canicula"
+    },
+    {
+        "codeEspece": "SYT",
+        "nomComun": "GRANDE ROUSSETTE",
+        "nomLatin": "Scyliorhinus stellaris"
+    },
+    {
+        "codeEspece": "TGS",
+        "nomComun": "CARAMOTE",
+        "nomLatin": "Penaeus kerathurus"
+    },
+    {
+        "codeEspece": "TJX",
+        "nomComun": "RASCASSE DE PROFONDEUR",
+        "nomLatin": "Trachyscorpia cristulata"
+    },
+    {
+        "codeEspece": "TPS",
+        "nomComun": "PALOURDES",
+        "nomLatin": "Ruditapes spp"
+    },
+    {
+        "codeEspece": "TRI",
+        "nomComun": "balistes nca (bourses famille)",
+        "nomLatin": "Balistidae"
+    },
+    {
+        "codeEspece": "TRS",
+        "nomComun": "TRUITE DE MER",
+        "nomLatin": "Salmo trutta"
+    },
+    {
+        "codeEspece": "TSD",
+        "nomComun": "ALOSE FEINTE",
+        "nomLatin": "Alosa fallax"
+    },
+    {
+        "codeEspece": "TTR",
+        "nomComun": "TORPILLE MARBREE",
+        "nomLatin": "Torpedo marmorata"
+    },
+    {
+        "codeEspece": "TUR",
+        "nomComun": "TURBOT",
+        "nomLatin": "Psetta maxima"
+    },
+    {
+        "codeEspece": "TWL",
+        "nomComun": "TELLINES",
+        "nomLatin": "Tellina spp"
+    },
+    {
+        "codeEspece": "UCA",
+        "nomComun": "OMBRINE BRONZE",
+        "nomLatin": "Umbrina canariensis"
+    },
+    {
+        "codeEspece": "ULV",
+        "nomComun": "SPISULE OVALE",
+        "nomLatin": "Spisula ovalis"
+    },
+    {
+        "codeEspece": "URX",
+        "nomComun": "OURSINS",
+        "nomLatin": "Echinoidea"
+    },
+    {
+        "codeEspece": "USB",
+        "nomComun": "VIEILLE COMMUNE",
+        "nomLatin": "Labrus bergylta"
+    },
+    {
+        "codeEspece": "USK",
+        "nomComun": "BROSME",
+        "nomLatin": "Brosme brosme"
+    },
+    {
+        "codeEspece": "UUC",
+        "nomComun": "URANOSCOPE",
+        "nomLatin": "Uranoscopus scaber"
+    },
+    {
+        "codeEspece": "VEV",
+        "nomComun": "PRAIRE",
+        "nomLatin": "Venus verrucosa"
+    },
+    {
+        "codeEspece": "VNR",
+        "nomComun": "PALOURDE ROSE",
+        "nomLatin": "Venerupis rhomboides"
+    },
+    {
+        "codeEspece": "VSC",
+        "nomComun": "PETONCLE NOIR",
+        "nomLatin": "Chlamys varia"
+    },
+    {
+        "codeEspece": "WEG",
+        "nomComun": "GRANDE VIVE",
+        "nomLatin": "Trachinus draco"
+    },
+    {
+        "codeEspece": "WHB",
+        "nomComun": "MERLAN BLEU dît POUTASSOU",
+        "nomLatin": "Micromesistius poutassou"
+    },
+    {
+        "codeEspece": "WHE",
+        "nomComun": "BUCCIN dit BULOT",
+        "nomLatin": "Buccinum undatum"
+    },
+    {
+        "codeEspece": "WHG",
+        "nomComun": "MERLAN",
+        "nomLatin": "Merlangius merlangus"
+    },
+    {
+        "codeEspece": "WHM",
+        "nomComun": "MAKAIRE BLANC",
+        "nomLatin": "Tetrapturus albidus"
+    },
+    {
+        "codeEspece": "WIT",
+        "nomComun": "PLIE CYNOGLOSSE",
+        "nomLatin": "Glyptocephalus cynoglossus"
+    },
+    {
+        "codeEspece": "WRA",
+        "nomComun": "pourceaux, donzelles, labres, etc. nca (groupe)",
+        "nomLatin": "Labridae"
+    },
+    {
+        "codeEspece": "WRF",
+        "nomComun": "CERNIER COMMUN",
+        "nomLatin": "Polyprion americanus"
+    },
+    {
+        "codeEspece": "YFT",
+        "nomComun": "thon albacore",
+        "nomLatin": "Thunnus albacares"
+    },
+    {
+        "codeEspece": "PIQ",
+        "nomComun": "BOUQUET DELTA dite CREVETTE BLANCHE",
+        "nomLatin": "Palaemon longirostris"
+    },
+    {
+        "codeEspece": "OUL",
+        "nomComun": "CASSERON COMMUN",
+        "nomLatin": "Alloteuthis subulata"
+    },
+    {
+        "codeEspece": "ELP",
+        "nomComun": "LOQUETTE EUROPE",
+        "nomLatin": "Zoarces viviparus"
+    },
+    {
+        "codeEspece": "CTR",
+        "nomComun": "SEPIOLE NAINE",
+        "nomLatin": "Sepiola rondeleti"
+    },
+    {
+        "codeEspece": "CUX",
+        "nomComun": "BECHES DE MER NCA",
+        "nomLatin": "Holothuroidea"
+    },
+    {
+        "codeEspece": "DOL",
+        "nomComun": "daurade coryphène commune",
+        "nomLatin": "Coryphaena hippurus"
+    },
+    {
+        "codeEspece": "COU",
+        "nomComun": "GIRELLE",
+        "nomLatin": "Coris julis"
+    },
+    {
+        "codeEspece": "FSI",
+        "nomComun": "SILURE",
+        "nomLatin": "Siluroidei"
+    },
+    {
+        "codeEspece": "SLI",
+        "nomComun": "LINGUE ESPAGNOLE",
+        "nomLatin": "Molva macrophthalma"
+    },
+    {
+        "codeEspece": "LEC",
+        "nomComun": "escolier noir",
+        "nomLatin": "Lepidocybium flavobrunneum"
+    },
+    {
+        "codeEspece": "BLM",
+        "nomComun": "marlin noir (makaire noir)",
+        "nomLatin": "Makaira indica"
+    },
+    {
+        "codeEspece": "BLT",
+        "nomComun": "BONITOU",
+        "nomLatin": "Auxis rochei"
+    },
+    {
+        "codeEspece": "OYG",
+        "nomComun": "HUÎTRE CREUSE DU PACIFIQUEE",
+        "nomLatin": "Crassostrea gigas"
+    },
+    {
+        "codeEspece": "SNC",
+        "nomComun": "VIVANEAU ROUGE",
+        "nomLatin": "Lutjanus purpureus"
+    },
+    {
+        "codeEspece": "RPU",
+        "nomComun": "VIVANEAU Ti-YEUX",
+        "nomLatin": "Rhomboplites aurorubens"
+    },
+    {
+        "codeEspece": "BRS",
+        "nomComun": "THAZARD SERRA",
+        "nomLatin": "Scomberomorus brasiliensis"
+    },
+    {
+        "codeEspece": "YNV",
+        "nomComun": "ACOUPA AIGUILLE",
+        "nomLatin": "Cynoscion virescens"
+    },
+    {
+        "codeEspece": "YNA",
+        "nomComun": "ACOUPA ROUGE",
+        "nomLatin": "Cynoscion acoupa"
+    },
+    {
+        "codeEspece": "AXP",
+        "nomComun": "MACHOIRON CRUCIFIX",
+        "nomLatin": "Arius proops"
+    },
+    {
+        "codeEspece": "GPX",
+        "nomComun": "MEROUS NCA",
+        "nomLatin": "Epinephelus spp"
+    },
+    {
+        "codeEspece": "ROB",
+        "nomComun": "CROSSIES NCA",
+        "nomLatin": "Centropomus spp"
+    },
+    {
+        "codeEspece": "TAR",
+        "nomComun": "TARPON ARGENTE/PALIKA",
+        "nomLatin": "Megalops atlanticus"
+    },
+    {
+        "codeEspece": "CVJ",
+        "nomComun": "CARANGUE CREVALLE",
+        "nomLatin": "Caranx hippos"
+    },
+    {
+        "codeEspece": "WKB",
+        "nomComun": "ACOUPA TIDENT/BLANC",
+        "nomLatin": "Cynoscion steindachneri"
+    },
+    {
+        "codeEspece": "PEN",
+        "nomComun": "CREVETTE PENAEUS NCA",
+        "nomLatin": "Penaeus spp"
+    },
+    {
+        "codeEspece": "FAL",
+        "nomComun": "requin soyeux",
+        "nomLatin": "Carcharhinus falciformis"
+    },
+    {
+        "codeEspece": "LOB",
+        "nomComun": "croupia roche (mérou de bois)",
+        "nomLatin": "Lobotes surinamensis"
+    },
+    {
+        "codeEspece": "RDC",
+        "nomComun": "PASTENAGUE EPINEUSE",
+        "nomLatin": "Dasyatis centroura"
+    },
+    {
+        "codeEspece": "RDA",
+        "nomComun": "PASTENAGUE AMERICAINE",
+        "nomLatin": "Dasyatis americana"
+    },
+    {
+        "codeEspece": "RDU",
+        "nomComun": "RAIE LONG NEZ",
+        "nomLatin": "Dasyatis guttata"
+    },
+    {
+        "codeEspece": "ANK",
+        "nomComun": "BAUDROIE ROUSSE",
+        "nomLatin": "Lophius budegassa"
+    },
+    {
+        "codeEspece": "MON",
+        "nomComun": "BAUDROIE COMMUNE",
+        "nomLatin": "Lophius piscatorius"
+    },
+    {
+        "codeEspece": "LAG",
+        "nomComun": "opah",
+        "nomLatin": "Lampris guttatus"
+    },
+    {
+        "codeEspece": "FPI",
+        "nomComun": "BROCHET DU NORD",
+        "nomLatin": "Esox lucius"
+    },
+    {
+        "codeEspece": "MUT",
+        "nomComun": "ROUGET DE VASE",
+        "nomLatin": "Mullus barbatus"
+    },
+    {
+        "codeEspece": "OLV",
+        "nomComun": "PAROMOLE",
+        "nomLatin": "Paromola cuvieri"
+    },
+    {
+        "codeEspece": "SYR",
+        "nomComun": "SQUALE-GROGNEUR COMMUN",
+        "nomLatin": "Scymnodon ringens"
+    },
+    {
+        "codeEspece": "USI",
+        "nomComun": "VIEILLE COQUETTE",
+        "nomLatin": "Labrus mixtus"
+    },
+    {
+        "codeEspece": "RAT",
+        "nomComun": "CHIMERE DE AMERIQUE",
+        "nomLatin": "Hydrolagus colliei"
+    },
+    {
+        "codeEspece": "LVC",
+        "nomComun": "COQUE LISSE NORVEGIENNE",
+        "nomLatin": "Laevicardium crassum"
+    },
+    {
+        "codeEspece": "LJJ",
+        "nomComun": "VIVANEAU CHIEN",
+        "nomLatin": "Lutjanus jocu"
+    },
+    {
+        "codeEspece": "SMD",
+        "nomComun": "EMISSOLE  LISSE",
+        "nomLatin": "Mustelus mustelus"
+    },
+    {
+        "codeEspece": "ASN",
+        "nomComun": "ASCOPHYLLUM ou GOEMON ROBERT",
+        "nomLatin": "Ascophyllum nodosum"
+    },
+    {
+        "codeEspece": "LAH",
+        "nomComun": "LAMINAIRE HYPERBOREE (TALY-PEN)",
+        "nomLatin": "Laminaria hyperborea"
+    },
+    {
+        "codeEspece": "LQD",
+        "nomComun": "LAMINAIRE DIGITEE (FOUE-TOUTRAC)",
+        "nomLatin": "Laminaria digitata"
+    },
+    {
+        "codeEspece": "AFK",
+        "nomComun": "Vivaneau fourche de Afrique",
+        "nomLatin": "Apsilus fuscus"
+    },
+    {
+        "codeEspece": "ALS",
+        "nomComun": "Requin pointe blanche",
+        "nomLatin": "Carcharhinus albimarginatus"
+    },
+    {
+        "codeEspece": "ARQ",
+        "nomComun": "vivaneau rouillé",
+        "nomLatin": "Aphareus rutilans"
+    },
+    {
+        "codeEspece": "ASX",
+        "nomComun": "Vivaneau noir",
+        "nomLatin": "Apsilus dentatus"
+    },
+    {
+        "codeEspece": "AVR",
+        "nomComun": "vivaneau job",
+        "nomLatin": "Aprion virescens"
+    },
+    {
+        "codeEspece": "AYF",
+        "nomComun": "vivaneau tidents",
+        "nomLatin": "Aphareus furca"
+    },
+    {
+        "codeEspece": "BAC",
+        "nomComun": "bécune jello",
+        "nomLatin": "Sphyraena jello"
+    },
+    {
+        "codeEspece": "BIP",
+        "nomComun": "bonite oriental",
+        "nomLatin": "Sarda orientalis"
+    },
+    {
+        "codeEspece": "BIS",
+        "nomComun": "sélar coulisou, pêche cavale",
+        "nomLatin": "Selar crumenophthalmus"
+    },
+    {
+        "codeEspece": "BWH",
+        "nomComun": "beauclaire miroir",
+        "nomLatin": "Priacanthus hamrur"
+    },
+    {
+        "codeEspece": "BYS",
+        "nomComun": "Béryx long",
+        "nomLatin": "Beryx splendens"
+    },
+    {
+        "codeEspece": "CAL",
+        "nomComun": "Crabes Callinectes nca",
+        "nomLatin": "Callinectes spp"
+    },
+    {
+        "codeEspece": "CCE",
+        "nomComun": "requin bouledogue",
+        "nomLatin": "Carcharhinus leucas"
+    },
+    {
+        "codeEspece": "CCP",
+        "nomComun": "Requin gris",
+        "nomLatin": "Carcharhinus plumbeus"
+    },
+    {
+        "codeEspece": "CFF",
+        "nomComun": "vieille la prude",
+        "nomLatin": "Cephalopholis argus"
+    },
+    {
+        "codeEspece": "CFI",
+        "nomComun": "vieille de corail",
+        "nomLatin": "Cephalopholis miniata"
+    },
+    {
+        "codeEspece": "CFJ",
+        "nomComun": "Coné ouatalibi",
+        "nomLatin": "Cephalopholis fulva"
+    },
+    {
+        "codeEspece": "CFZ",
+        "nomComun": "vieille dorée",
+        "nomLatin": "Cephalopholis aurantia"
+    },
+    {
+        "codeEspece": "CLP",
+        "nomComun": "harengs, sardines nca (famille)",
+        "nomLatin": "Clupeidae"
+    },
+    {
+        "codeEspece": "COM",
+        "nomComun": "thazard rayé indo-pacifique",
+        "nomLatin": "Scomberomorus commerson"
+    },
+    {
+        "codeEspece": "CRW",
+        "nomComun": "Langoustes Palinurus nca",
+        "nomLatin": "Palinurus spp"
+    },
+    {
+        "codeEspece": "CWR",
+        "nomComun": "vieille fraise",
+        "nomLatin": "Cephalopholis spiloparaea"
+    },
+    {
+        "codeEspece": "CWU",
+        "nomComun": "Vieille aile noire",
+        "nomLatin": "Cephalopholis urodeta"
+    },
+    {
+        "codeEspece": "DCT",
+        "nomComun": "Comète queue rouge",
+        "nomLatin": "Decapterus tabl"
+    },
+    {
+        "codeEspece": "DOT",
+        "nomComun": "bonite à gros yeux (thon dent de chien)",
+        "nomLatin": "Gymnosarda unicolor"
+    },
+    {
+        "codeEspece": "EBS",
+        "nomComun": "castagnole, mochong, zambas, zirondelle, brème noire",
+        "nomLatin": "Eumegistus illustris"
+    },
+    {
+        "codeEspece": "EEA",
+        "nomComun": "mérou oriflamme",
+        "nomLatin": "Epinephelus fasciatus"
+    },
+    {
+        "codeEspece": "EEM",
+        "nomComun": "mérou tapis",
+        "nomLatin": "Epinephelus macrospilos"
+    },
+    {
+        "codeEspece": "EEP",
+        "nomComun": "mérou comète",
+        "nomLatin": "Epinephelus morrhua"
+    },
+    {
+        "codeEspece": "EER",
+        "nomComun": "mérou gâteau de cire",
+        "nomLatin": "Epinephelus merra"
+    },
+    {
+        "codeEspece": "EEV",
+        "nomComun": "mérou faraud",
+        "nomLatin": "Epinephelus flavocaeruleus"
+    },
+    {
+        "codeEspece": "EEX",
+        "nomComun": "mérou mélifère",
+        "nomLatin": "Epinephelus hexagonatus"
+    },
+    {
+        "codeEspece": "EFH",
+        "nomComun": "mérou pintade",
+        "nomLatin": "Epinephelus chlorostigma"
+    },
+    {
+        "codeEspece": "EFQ",
+        "nomComun": "Mérou longues ailes",
+        "nomLatin": "Epinephelus quoyanus"
+    },
+    {
+        "codeEspece": "EFT",
+        "nomComun": "vieille ananas",
+        "nomLatin": "Cephalopholis sonnerati"
+    },
+    {
+        "codeEspece": "EML",
+        "nomComun": "mérou sellé",
+        "nomLatin": "Plectropomus laevis"
+    },
+    {
+        "codeEspece": "EMN",
+        "nomComun": "mérou pointillé",
+        "nomLatin": "Plectropomus punctatus"
+    },
+    {
+        "codeEspece": "EPT",
+        "nomComun": "merou loutre",
+        "nomLatin": "Epinephelus tauvina"
+    },
+    {
+        "codeEspece": "ETA",
+        "nomComun": "vivaneau rubis, vivaneau rouge (océan indien, pacifique)",
+        "nomLatin": "Etelis carbunculus"
+    },
+    {
+        "codeEspece": "ETC",
+        "nomComun": "vivaneau flamme",
+        "nomLatin": "Etelis coruscans"
+    },
+    {
+        "codeEspece": "EWO",
+        "nomComun": "mérou huit raies",
+        "nomLatin": "Epinephelus octofasciatus"
+    },
+    {
+        "codeEspece": "EWR",
+        "nomComun": "mérou à bout rouge",
+        "nomLatin": "Epinephelus retouti"
+    },
+    {
+        "codeEspece": "EWU",
+        "nomComun": "mérou plate grise",
+        "nomLatin": "Epinephelus multinotatus"
+    },
+    {
+        "codeEspece": "EWW",
+        "nomComun": "mérou longues épines",
+        "nomLatin": "Epinephelus longispinis"
+    },
+    {
+        "codeEspece": "EZR",
+        "nomComun": "mérou zébré",
+        "nomLatin": "Epinephelus radiatus"
+    },
+    {
+        "codeEspece": "GBA",
+        "nomComun": "barracuda",
+        "nomLatin": "Sphyraena barracuda"
+    },
+    {
+        "codeEspece": "GMR",
+        "nomComun": "empereur gris",
+        "nomLatin": "Gymnocranius griseus"
+    },
+    {
+        "codeEspece": "GMW",
+        "nomComun": "empereur tatoué",
+        "nomLatin": "Gymnocranius grandoculis"
+    },
+    {
+        "codeEspece": "GSE",
+        "nomComun": "poissons-savon",
+        "nomLatin": "Grammistes sexlineatus"
+    },
+    {
+        "codeEspece": "GXR",
+        "nomComun": "empereur strié",
+        "nomLatin": "Gnathodentex aureolineatus"
+    },
+    {
+        "codeEspece": "HMJ",
+        "nomComun": "cardinal",
+        "nomLatin": "Myripristis murdjan"
+    },
+    {
+        "codeEspece": "HTU",
+        "nomComun": "beauclaire de roche",
+        "nomLatin": "Heteropriacanthus cruentatus"
+    },
+    {
+        "codeEspece": "IAX",
+        "nomComun": "Seiches nca",
+        "nomLatin": "Sepia spp"
+    },
+    {
+        "codeEspece": "IQU",
+        "nomComun": "vieille à selle noire",
+        "nomLatin": "Bodianus bilunulatus"
+    },
+    {
+        "codeEspece": "IUU",
+        "nomComun": "Marguerite",
+        "nomLatin": "Siganus sutor"
+    },
+    {
+        "codeEspece": "IYL",
+        "nomComun": "bichique",
+        "nomLatin": "Sicyopterus lagocephalus"
+    },
+    {
+        "codeEspece": "KAW",
+        "nomComun": "thonine orientale, bonite de laine",
+        "nomLatin": "Euthynnus affinis"
+    },
+    {
+        "codeEspece": "KBK",
+        "nomComun": "spare soldat, zaigrettes",
+        "nomLatin": "Argyrops filamentosus"
+    },
+    {
+        "codeEspece": "KBR",
+        "nomComun": "Spare royal",
+        "nomLatin": "Argyrops spinifer"
+    },
+    {
+        "codeEspece": "KYB",
+        "nomComun": "calicagère (KYB) ",
+        "nomLatin": "Kyphosus bigibbus"
+    },
+    {
+        "codeEspece": "LHB",
+        "nomComun": "békine, lascar",
+        "nomLatin": "Lethrinus rubrioperculatus"
+    },
+    {
+        "codeEspece": "LHI",
+        "nomComun": "Gueule rouge",
+        "nomLatin": "Lethrinus miniatus"
+    },
+    {
+        "codeEspece": "LHN",
+        "nomComun": "empereur moris",
+        "nomLatin": "Lethrinus nebulosus"
+    },
+    {
+        "codeEspece": "LJB",
+        "nomComun": "vivaneau chien rouge",
+        "nomLatin": "Lutjanus bohar"
+    },
+    {
+        "codeEspece": "LJV",
+        "nomComun": "Vivaneau queue noire",
+        "nomLatin": "Lutjanus fulvus"
+    },
+    {
+        "codeEspece": "LOS",
+        "nomComun": "cigales nca (famille)",
+        "nomLatin": "Scyllaridae"
+    },
+    {
+        "codeEspece": "LRI",
+        "nomComun": "colas à bandes dorées",
+        "nomLatin": "Pristipomoides multidens"
+    },
+    {
+        "codeEspece": "LRX",
+        "nomComun": "vivanette queue jaune",
+        "nomLatin": "Paracaesio xanthura"
+    },
+    {
+        "codeEspece": "LRY",
+        "nomComun": "colas orné",
+        "nomLatin": "Pristipomoides argyrogrammicus"
+    },
+    {
+        "codeEspece": "LTK",
+        "nomComun": "empereur saint pierre",
+        "nomLatin": "Lethrinus harak"
+    },
+    {
+        "codeEspece": "LTQ",
+        "nomComun": "empereur mahsena",
+        "nomLatin": "Lethrinus mahsena"
+    },
+    {
+        "codeEspece": "LUB",
+        "nomComun": "Vivaneau bourgeois",
+        "nomLatin": "Lutjanus sebae"
+    },
+    {
+        "codeEspece": "LUF",
+        "nomComun": "Vivaneau raies jaunes",
+        "nomLatin": "Lutjanus rufolineatus"
+    },
+    {
+        "codeEspece": "LUV",
+        "nomComun": "vivaneau maori",
+        "nomLatin": "Lutjanus rivulatus"
+    },
+    {
+        "codeEspece": "LVK",
+        "nomComun": "vivaneau à raies bleues",
+        "nomLatin": "Lutjanus kasmira"
+    },
+    {
+        "codeEspece": "LWA",
+        "nomComun": "colas drapeau",
+        "nomLatin": "Pristipomoides auricilla"
+    },
+    {
+        "codeEspece": "LWZ",
+        "nomComun": "colas bagnard",
+        "nomLatin": "Pristipomoides zonatus"
+    },
+    {
+        "codeEspece": "LZJ",
+        "nomComun": "Vivaneau têtu",
+        "nomLatin": "Lutjanus sanguineus"
+    },
+    {
+        "codeEspece": "MAR",
+        "nomComun": "mérou malabar",
+        "nomLatin": "Epinephelus malabaricus"
+    },
+    {
+        "codeEspece": "MCC",
+        "nomComun": "Grenadier gros yeux",
+        "nomLatin": "Macrourus carinatus"
+    },
+    {
+        "codeEspece": "MUV",
+        "nomComun": "capucin à bande jaune",
+        "nomLatin": "Mulloidichthys flavolineatus"
+    },
+    {
+        "codeEspece": "MXG",
+        "nomComun": "empereur bossu",
+        "nomLatin": "Monotaxis grandoculis"
+    },
+    {
+        "codeEspece": "NAS",
+        "nomComun": "nason à éperons bleus",
+        "nomLatin": "Naso unicornis"
+    },
+    {
+        "codeEspece": "NGU",
+        "nomComun": "carangue pailletée",
+        "nomLatin": "Carangoides fulvoguttatus"
+    },
+    {
+        "codeEspece": "NGY",
+        "nomComun": "CARANGUE BALO",
+        "nomLatin": "Carangoides gymnostethus"
+    },
+    {
+        "codeEspece": "NXI",
+        "nomComun": "carangue têtue",
+        "nomLatin": "Caranx ignobilis"
+    },
+    {
+        "codeEspece": "NXM",
+        "nomComun": "carangue aîle bleue",
+        "nomLatin": "Caranx melampygus"
+    },
+    {
+        "codeEspece": "NXU",
+        "nomComun": "carangue noire",
+        "nomLatin": "Caranx lugubris"
+    },
+    {
+        "codeEspece": "OBY",
+        "nomComun": "sauteur sabre",
+        "nomLatin": "Scomberoides lysan"
+    },
+    {
+        "codeEspece": "OCS",
+        "nomComun": "requin océanique, pointe blanche océanique",
+        "nomLatin": "Carcharhinus longimanus"
+    },
+    {
+        "codeEspece": "OIL",
+        "nomComun": "rouvet",
+        "nomLatin": "Ruvettus pretiosus"
+    },
+    {
+        "codeEspece": "PFM",
+        "nomComun": "colas fil",
+        "nomLatin": "Pristipomoides filamentosus"
+    },
+    {
+        "codeEspece": "PXJ",
+        "nomComun": "Barbe",
+        "nomLatin": "Polymixia japonica"
+    },
+    {
+        "codeEspece": "QZH",
+        "nomComun": "rouget-barbet sellé (capucin sellé)",
+        "nomLatin": "Parupeneus rubescens"
+    },
+    {
+        "codeEspece": "RAQ",
+        "nomComun": "crabe girafe",
+        "nomLatin": "Ranina ranina"
+    },
+    {
+        "codeEspece": "RES",
+        "nomComun": "vivaneau des mangroves",
+        "nomLatin": "Lutjanus argentimaculatus"
+    },
+    {
+        "codeEspece": "RFP",
+        "nomComun": "rouget-barbet barberin (capucin barberin)",
+        "nomLatin": "Parupeneus barberinus"
+    },
+    {
+        "codeEspece": "RFQ",
+        "nomComun": "rouget-barbet indien (capucin indien)",
+        "nomLatin": "Parupeneus indicus"
+    },
+    {
+        "codeEspece": "RPB",
+        "nomComun": "rouget-barbet double-tache (capucin manuel)",
+        "nomLatin": "Parupeneus trifasciatus"
+    },
+    {
+        "codeEspece": "RPK",
+        "nomComun": "capucin à trois bandes",
+        "nomLatin": "Parupeneus multifasciatus"
+    },
+    {
+        "codeEspece": "RPY",
+        "nomComun": "capucin malbar (rouget barbet doré)",
+        "nomLatin": "Parupeneus cyclostomus"
+    },
+    {
+        "codeEspece": "RRU",
+        "nomComun": "comète saumon",
+        "nomLatin": "Elagatis bipinnulata"
+    },
+    {
+        "codeEspece": "RSS",
+        "nomComun": "sargue doré",
+        "nomLatin": "Rhabdosargus sarba"
+    },
+    {
+        "codeEspece": "RTN",
+        "nomComun": "Paratilapia",
+        "nomLatin": "Paratilapia polleni"
+    },
+    {
+        "codeEspece": "RWA",
+        "nomComun": "Sardines arc-en-ciel nca",
+        "nomLatin": "Dussumieria spp"
+    },
+    {
+        "codeEspece": "SFA",
+        "nomComun": "voilier indo-pacifique",
+        "nomLatin": "Istiophorus platypterus"
+    },
+    {
+        "codeEspece": "SNU",
+        "nomComun": "Vivaneau hublot",
+        "nomLatin": "Lutjanus russelli"
+    },
+    {
+        "codeEspece": "SNY",
+        "nomComun": "Vivaneau queue jaune",
+        "nomLatin": "Ocyurus chrysurus"
+    },
+    {
+        "codeEspece": "SQC",
+        "nomComun": "Calmars Loligo nca",
+        "nomLatin": "Loligo spp"
+    },
+    {
+        "codeEspece": "SSP",
+        "nomComun": "makaire à rostre court, lancier",
+        "nomLatin": "Tetrapturus angustirostris"
+    },
+    {
+        "codeEspece": "THM",
+        "nomComun": "escolier gracile",
+        "nomLatin": "Thyrsitoides marleyi"
+    },
+    {
+        "codeEspece": "TLP",
+        "nomComun": "Tilapias nca",
+        "nomLatin": "Oreochromis (=Tilapia) spp"
+    },
+    {
+        "codeEspece": "TOP",
+        "nomComun": "Légine australe",
+        "nomLatin": "Dissostichus eleginoides"
+    },
+    {
+        "codeEspece": "TRR",
+        "nomComun": "Truite arc-en-ciel",
+        "nomLatin": "Oncorhynchus mykiss"
+    },
+    {
+        "codeEspece": "TST",
+        "nomComun": "brème à longues nageoires ",
+        "nomLatin": "Taractichthys steindachneri"
+    },
+    {
+        "codeEspece": "UBS",
+        "nomComun": "Ombrines nca",
+        "nomLatin": "Umbrina spp"
+    },
+    {
+        "codeEspece": "UDU",
+        "nomComun": "Rouget-barbet tacheté",
+        "nomLatin": "Pseudupeneus maculatus"
+    },
+    {
+        "codeEspece": "UGY",
+        "nomComun": "jacquot, sangol",
+        "nomLatin": "Branchiostegus doliatus"
+    },
+    {
+        "codeEspece": "USY",
+        "nomComun": "Perroquet barbe bleue",
+        "nomLatin": "Scarus ghobban"
+    },
+    {
+        "codeEspece": "VRA",
+        "nomComun": "croissant queue blanche",
+        "nomLatin": "Variola albimarginata"
+    },
+    {
+        "codeEspece": "VRL",
+        "nomComun": "croissant queue jaune",
+        "nomLatin": "Variola louti"
+    },
+    {
+        "codeEspece": "WAH",
+        "nomComun": "thazard-bâtard, thon banane",
+        "nomLatin": "Acanthocybium solandri"
+    },
+    {
+        "codeEspece": "WSM",
+        "nomComun": "Escolier blanc",
+        "nomLatin": "Thyrsitops lepidopoides"
+    },
+    {
+        "codeEspece": "YJG",
+        "nomComun": "capucin de vanicolo",
+        "nomLatin": "Mulloidichthys vanicolensis"
+    },
+    {
+        "codeEspece": "YJW",
+        "nomComun": "marignan à oeillères",
+        "nomLatin": "Myripristis berndti"
+    },
+    {
+        "codeEspece": "YJY",
+        "nomComun": "soldat a nageoires jaunes",
+        "nomLatin": "Myripristis chryseres"
+    },
+    {
+        "codeEspece": "YJZ",
+        "nomComun": "marignan ardoisé",
+        "nomLatin": "Myripristis kuntee"
+    },
+    {
+        "codeEspece": "YMZ",
+        "nomComun": "Capucin jaune",
+        "nomLatin": "Mulloidichthys martinicus"
+    },
+    {
+        "codeEspece": "YTC",
+        "nomComun": "sériole chicard",
+        "nomLatin": "Seriola lalandi"
+    },
+    {
+        "codeEspece": "AVX",
+        "nomComun": "ATHERINE SPP",
+        "nomLatin": "Atherina spp"
+    },
+    {
+        "codeEspece": "BIL",
+        "nomComun": "MAKAIRES,MARLINS,VOILIERS NCA",
+        "nomLatin": "Istiophoridae"
+    },
+    {
+        "codeEspece": "REB",
+        "nomComun": "SEBASTE DU NORD",
+        "nomLatin": "Sebastes mentella"
+    },
+    {
+        "codeEspece": "AGS",
+        "nomComun": "sardinelle tachetée",
+        "nomLatin": "amblygaster sirm"
+    },
+    {
+        "codeEspece": "ALM",
+        "nomComun": "bourse loulou",
+        "nomLatin": "aluterus monoceros"
+    },
+    {
+        "codeEspece": "ALN",
+        "nomComun": "bourse écriture",
+        "nomLatin": "aluterus scriptus"
+    },
+    {
+        "codeEspece": "ALU",
+        "nomComun": "albulidés nca (banane de mer famille)",
+        "nomLatin": "albulidae"
+    },
+    {
+        "codeEspece": "AMX",
+        "nomComun": "sérioles nca (famille)",
+        "nomLatin": "seriola spp"
+    },
+    {
+        "codeEspece": "AXQ",
+        "nomComun": "chirurgiens (genre)",
+        "nomLatin": "acanthurus spp"
+    },
+    {
+        "codeEspece": "BAB",
+        "nomComun": "bécune (BAB)",
+        "nomLatin": "sphyraena genie"
+    },
+    {
+        "codeEspece": "BAT",
+        "nomComun": "poules d'eau",
+        "nomLatin": "platax spp"
+    },
+    {
+        "codeEspece": "BDT",
+        "nomComun": "labre de la perdition",
+        "nomLatin": "bodianus perditio"
+    },
+    {
+        "codeEspece": "BDY",
+        "nomComun": "chien (genre)",
+        "nomLatin": "bodianus spp"
+    },
+    {
+        "codeEspece": "BEN",
+        "nomComun": "aiguilles, orphies nca (famille)",
+        "nomLatin": "belonidae"
+    },
+    {
+        "codeEspece": "BRA",
+        "nomComun": "brème (genre)",
+        "nomLatin": "brama spp"
+    },
+    {
+        "codeEspece": "BRZ",
+        "nomComun": "castagnoles nca (groupe)",
+        "nomLatin": "bramidae"
+    },
+    {
+        "codeEspece": "BSX",
+        "nomComun": "serranidés nca (mérous famille)",
+        "nomLatin": "serranidae"
+    },
+    {
+        "codeEspece": "BXD",
+        "nomComun": "béryx commun",
+        "nomLatin": "beryx decadactylus"
+    },
+    {
+        "codeEspece": "CEM",
+        "nomComun": "squale-chagrin cagaou",
+        "nomLatin": "centrophorus moluccensis"
+    },
+    {
+        "codeEspece": "CFX",
+        "nomComun": "vieille six taches",
+        "nomLatin": "cephalopholis sexmaculata"
+    },
+    {
+        "codeEspece": "CGX",
+        "nomComun": "carangidés nca (carangues famille)",
+        "nomLatin": "carangidae"
+    },
+    {
+        "codeEspece": "CJN",
+        "nomComun": "beauclaire longue aile",
+        "nomLatin": "cookeolus japonicus"
+    },
+    {
+        "codeEspece": "CNT",
+        "nomComun": "baliste rude",
+        "nomLatin": "canthidermis maculatus"
+    },
+    {
+        "codeEspece": "COX",
+        "nomComun": "congres, etc. nca (famille)",
+        "nomLatin": "congridae"
+    },
+    {
+        "codeEspece": "CRA",
+        "nomComun": "crabes de mer nca (groupe)",
+        "nomLatin": "brachyura"
+    },
+    {
+        "codeEspece": "CUP",
+        "nomComun": "dérivant ",
+        "nomLatin": "cubiceps spp"
+    },
+    {
+        "codeEspece": "CXS",
+        "nomComun": "carangue vorace",
+        "nomLatin": "caranx sexfasciatus"
+    },
+    {
+        "codeEspece": "DCP",
+        "nomComun": "crevettes groupe (décapodes natantia nca)",
+        "nomLatin": "natantia"
+    },
+    {
+        "codeEspece": "DGP",
+        "nomComun": "diagramme voilier",
+        "nomLatin": "diagramma pictum"
+    },
+    {
+        "codeEspece": "DOP",
+        "nomComun": "aiguillat nez court",
+        "nomLatin": "squalus megalops"
+    },
+    {
+        "codeEspece": "DRK",
+        "nomComun": "ariommes nca (genre)",
+        "nomLatin": "ariomma spp"
+    },
+    {
+        "codeEspece": "DYW",
+        "nomComun": "grondin volant oriental",
+        "nomLatin": "dactyloptena orientalis"
+    },
+    {
+        "codeEspece": "DYX",
+        "nomComun": "grondins volants nca (famille)",
+        "nomLatin": "dactylopteridae"
+    },
+    {
+        "codeEspece": "EAG",
+        "nomComun": "aigles de mer nca (famille)",
+        "nomLatin": "myliobatidae"
+    },
+    {
+        "codeEspece": "EEJ",
+        "nomComun": "mérou grandes écailles",
+        "nomLatin": "epinephelus magniscuttis"
+    },
+    {
+        "codeEspece": "EEK",
+        "nomComun": "mérou camouflage",
+        "nomLatin": "epinephelus polyphekadion"
+    },
+    {
+        "codeEspece": "EEW",
+        "nomComun": "vivaneau pâle",
+        "nomLatin": "etelis radiosus"
+    },
+    {
+        "codeEspece": "EHG",
+        "nomComun": "vieille roga",
+        "nomLatin": "aethaloperca rogaa"
+    },
+    {
+        "codeEspece": "ELX",
+        "nomComun": "anguille nca (genre)",
+        "nomLatin": "anguilla spp"
+    },
+    {
+        "codeEspece": "EMO",
+        "nomComun": "saumonée léopard",
+        "nomLatin": "plectropomus leopardus"
+    },
+    {
+        "codeEspece": "EMP",
+        "nomComun": "empereurs nca (capitaines famille)",
+        "nomLatin": "lethrinidae"
+    },
+    {
+        "codeEspece": "EPR",
+        "nomComun": "mérou aréolé",
+        "nomLatin": "epinephelus areolatus"
+    },
+    {
+        "codeEspece": "EPV",
+        "nomComun": "mérou demi-lune",
+        "nomLatin": "epinephelus rivulatus"
+    },
+    {
+        "codeEspece": "ESR",
+        "nomComun": "anchois bombra",
+        "nomLatin": "stolephorus commersonii"
+    },
+    {
+        "codeEspece": "EWC",
+        "nomComun": "mérou taches blanches",
+        "nomLatin": "epinephelus caeruleopunctatus"
+    },
+    {
+        "codeEspece": "EWF",
+        "nomComun": "mérou marron",
+        "nomLatin": "epinephelus fuscoguttatus"
+    },
+    {
+        "codeEspece": "EWL",
+        "nomComun": "mérou patate",
+        "nomLatin": "epinephelus tukula"
+    },
+    {
+        "codeEspece": "EYB",
+        "nomComun": "anchois-moustache sardin",
+        "nomLatin": "thryssa baelama"
+    },
+    {
+        "codeEspece": "EZO",
+        "nomComun": "mérou quatre selles",
+        "nomLatin": "epinephelus spilotoceps"
+    },
+    {
+        "codeEspece": "FBC",
+        "nomComun": "labre diane",
+        "nomLatin": "bodianus diana"
+    },
+    {
+        "codeEspece": "FCW",
+        "nomComun": "athérine têtue",
+        "nomLatin": "atherinomorus lacunosus"
+    },
+    {
+        "codeEspece": "FFX",
+        "nomComun": "poissons-bourses nca (famille)",
+        "nomLatin": "monacanthidae"
+    },
+    {
+        "codeEspece": "GEP",
+        "nomComun": "escoliers, rouvets nca (famille)",
+        "nomLatin": "gempylidae"
+    },
+    {
+        "codeEspece": "GOX",
+        "nomComun": "rougets-souris",
+        "nomLatin": "upeneus spp"
+    },
+    {
+        "codeEspece": "GQD",
+        "nomComun": "diagramme à lèvres rouges",
+        "nomLatin": "plectorhinchus sordidus"
+    },
+    {
+        "codeEspece": "GQT",
+        "nomComun": "diagramme moucheté",
+        "nomLatin": "plectorhinchus gaterinus"
+    },
+    {
+        "codeEspece": "GQV",
+        "nomComun": "diagramme oriental",
+        "nomLatin": "plectorhinchus orientalis"
+    },
+    {
+        "codeEspece": "GRX",
+        "nomComun": "grondeurs, diagrammes nca, gros lève (groupe)",
+        "nomLatin": "haemulidae (=pomadasyidae)"
+    },
+    {
+        "codeEspece": "HCZ",
+        "nomComun": "marignans famille (cardinals et écureuils) ",
+        "nomLatin": "holocentridae"
+    },
+    {
+        "codeEspece": "HES",
+        "nomComun": "hareng à bande bleue",
+        "nomLatin": "herklotsichthys quadrimaculat."
+    },
+    {
+        "codeEspece": "HHF",
+        "nomComun": "demi-bec bagnard",
+        "nomLatin": "hemiramphus far"
+    },
+    {
+        "codeEspece": "HUU",
+        "nomComun": "vieille triple queue",
+        "nomLatin": "cheilinus trilobatus"
+    },
+    {
+        "codeEspece": "HVS",
+        "nomComun": "marignan sabre",
+        "nomLatin": "sargocentron spiniferum"
+    },
+    {
+        "codeEspece": "HWD",
+        "nomComun": "écureuil diadème (poissons écureuil)",
+        "nomLatin": "sargocentron diadema"
+    },
+    {
+        "codeEspece": "HWK",
+        "nomComun": "cardinal de creux, cardinal tambour, tabouret",
+        "nomLatin": "ostichthys kaianus"
+    },
+    {
+        "codeEspece": "HXN",
+        "nomComun": "requin-vache",
+        "nomLatin": "hexanchus nakamurai"
+    },
+    {
+        "codeEspece": "HZK",
+        "nomComun": "crevettes nylon nca (genre)",
+        "nomLatin": "heterocarpus spp"
+    },
+    {
+        "codeEspece": "IGA",
+        "nomComun": "cordonnier, marguerite (sigan vermiculé - IGA) ",
+        "nomLatin": "siganus argenteus"
+    },
+    {
+        "codeEspece": "IGU",
+        "nomComun": "cordonnier (IGU)",
+        "nomLatin": "siganus luridus"
+    },
+    {
+        "codeEspece": "ILG",
+        "nomComun": "rason paon",
+        "nomLatin": "iniistius pavo"
+    },
+    {
+        "codeEspece": "IRO",
+        "nomComun": "empervier de corail",
+        "nomLatin": "cirrhitus pinnulatus"
+    },
+    {
+        "codeEspece": "IWX",
+        "nomComun": "mérou loche ",
+        "nomLatin": "plectropomus spp"
+    },
+    {
+        "codeEspece": "JIP",
+        "nomComun": "labre constellé",
+        "nomLatin": "anampses caeruleopunctatus"
+    },
+    {
+        "codeEspece": "JKX",
+        "nomComun": "demi-becs nca (famille)",
+        "nomLatin": "hemiramphidae"
+    },
+    {
+        "codeEspece": "JLT",
+        "nomComun": "méganthias",
+        "nomLatin": "meganthias natalensis"
+    },
+    {
+        "codeEspece": "KPM",
+        "nomComun": "crabe de récif",
+        "nomLatin": "carpilius maculatus"
+    },
+    {
+        "codeEspece": "KYC",
+        "nomComun": "calicagère bleue ",
+        "nomLatin": "kyphosus cinerascens"
+    },
+    {
+        "codeEspece": "KYP",
+        "nomComun": "calicagères nca (genre), poissons d'ail",
+        "nomLatin": "kyphosus spp"
+    },
+    {
+        "codeEspece": "KYV",
+        "nomComun": "calicagère (saupe grise à lignes jaunes)",
+        "nomLatin": "kyphosus vaigiensis"
+    },
+    {
+        "codeEspece": "LHO",
+        "nomComun": "empereur gueule longue",
+        "nomLatin": "lethrinus olivaceus"
+    },
+    {
+        "codeEspece": "LJG",
+        "nomComun": "vivaneau pagaie",
+        "nomLatin": "lutjanus gibbus"
+    },
+    {
+        "codeEspece": "LJK",
+        "nomComun": "vivaneau églefin",
+        "nomLatin": "lutjanus monostigma"
+    },
+    {
+        "codeEspece": "LMA",
+        "nomComun": "petite taupe",
+        "nomLatin": "isurus paucus"
+    },
+    {
+        "codeEspece": "LOJ",
+        "nomComun": "langouste diablotin",
+        "nomLatin": "panulirus longipes"
+    },
+    {
+        "codeEspece": "LTD",
+        "nomComun": "cordonnier plume, carangue à plume",
+        "nomLatin": "alectis indicus"
+    },
+    {
+        "codeEspece": "LWQ",
+        "nomComun": "vivaneau à cinq bandes",
+        "nomLatin": "lutjanus quinquelineatus"
+    },
+    {
+        "codeEspece": "LXE",
+        "nomComun": "empereur capitaine",
+        "nomLatin": "lethrinus erythracanthus"
+    },
+    {
+        "codeEspece": "LXN",
+        "nomComun": "empereur bec-de-cane",
+        "nomLatin": "lethrinus xanthochilus"
+    },
+    {
+        "codeEspece": "MAK",
+        "nomComun": "taupes (requin taupe)",
+        "nomLatin": "isurus spp"
+    },
+    {
+        "codeEspece": "MAN",
+        "nomComun": "mantes, raies manta et mobula (famille)",
+        "nomLatin": "mobulidae"
+    },
+    {
+        "codeEspece": "MIL",
+        "nomComun": "chano",
+        "nomLatin": "chanos chanos"
+    },
+    {
+        "codeEspece": "MNT",
+        "nomComun": "manta (genre)",
+        "nomLatin": "manta spp"
+    },
+    {
+        "codeEspece": "MOJ",
+        "nomComun": "blanches nca (famille)",
+        "nomLatin": "gerres spp"
+    },
+    {
+        "codeEspece": "MOR",
+        "nomComun": "mores nca (famille)",
+        "nomLatin": "moridae"
+    },
+    {
+        "codeEspece": "MUI",
+        "nomComun": "murènes nca (famille)",
+        "nomLatin": "muraenidae"
+    },
+    {
+        "codeEspece": "MUM",
+        "nomComun": "rougets, etc. nca (capucins famille)",
+        "nomLatin": "mullidae"
+    },
+    {
+        "codeEspece": "NAB",
+        "nomComun": "licorne (nason à rostre court)",
+        "nomLatin": "naso brevirostris"
+    },
+    {
+        "codeEspece": "NGT",
+        "nomComun": "carangue des îles (carangue tachetée)",
+        "nomLatin": "carangoides orthogrammus"
+    },
+    {
+        "codeEspece": "NUP",
+        "nomComun": "langouste fourchette",
+        "nomLatin": "panulirus penicillatus"
+    },
+    {
+        "codeEspece": "NUR",
+        "nomComun": "langouste ornée",
+        "nomLatin": "panulirus ornatus"
+    },
+    {
+        "codeEspece": "NUV",
+        "nomComun": "langouste barriolée",
+        "nomLatin": "panulirus versicolor"
+    },
+    {
+        "codeEspece": "NXP",
+        "nomComun": "carangue bronze",
+        "nomLatin": "caranx papuensis"
+    },
+    {
+        "codeEspece": "NXT",
+        "nomComun": "carangue tille",
+        "nomLatin": "caranx tille"
+    },
+    {
+        "codeEspece": "PFV",
+        "nomComun": "diagramme citron",
+        "nomLatin": "plectorhinchus flavomaculatus"
+    },
+    {
+        "codeEspece": "PLS",
+        "nomComun": "pastenague violette",
+        "nomLatin": "dasyatis violacea"
+    },
+    {
+        "codeEspece": "PRI",
+        "nomComun": "beauclaires, etc. nca (famille)",
+        "nomLatin": "priacanthidae"
+    },
+    {
+        "codeEspece": "PRP",
+        "nomComun": "escolier clair",
+        "nomLatin": "Promethichthys prometheus"
+    },
+    {
+        "codeEspece": "PWT",
+        "nomComun": "perroquets nca (famille)",
+        "nomLatin": "scaridae"
+    },
+    {
+        "codeEspece": "QIJ",
+        "nomComun": "barbe",
+        "nomLatin": "polymixia berndti"
+    },
+    {
+        "codeEspece": "QIT",
+        "nomComun": "vivaneau du bengale",
+        "nomLatin": "lutjanus bengalensis"
+    },
+    {
+        "codeEspece": "QKU",
+        "nomComun": "vivaneau à raies bleues ",
+        "nomLatin": "lutjanus notatus"
+    },
+    {
+        "codeEspece": "QXR",
+        "nomComun": "denté guingham",
+        "nomLatin": "polysteganus baissaci"
+    },
+    {
+        "codeEspece": "RAI",
+        "nomComun": "vivaneau de randall",
+        "nomLatin": "randallichthys filamentosus"
+    },
+    {
+        "codeEspece": "RCD",
+        "nomComun": "poisson paille à pois, grande raie guitare",
+        "nomLatin": "rhynchobatus djiddensis"
+    },
+    {
+        "codeEspece": "RCK",
+        "nomComun": "cigale royale",
+        "nomLatin": "arctides regalis"
+    },
+    {
+        "codeEspece": "RMV",
+        "nomComun": "mobula (genre)",
+        "nomLatin": "mobula spp"
+    },
+    {
+        "codeEspece": "RPL",
+        "nomComun": "rouget-barbet pastille (capucin barbet pastille)",
+        "nomLatin": "parupeneus pleurostigma"
+    },
+    {
+        "codeEspece": "RPO",
+        "nomComun": "rouget-barbet bandeau (capucin à longs barbillons)",
+        "nomLatin": "parupeneus macronema"
+    },
+    {
+        "codeEspece": "RRN",
+        "nomComun": "cigale savate",
+        "nomLatin": "parribacus antarcticus"
+    },
+    {
+        "codeEspece": "RTE",
+        "nomComun": "pastenague éventail (raie pastenague à tâches noires)",
+        "nomLatin": "taeniura meyeni"
+    },
+    {
+        "codeEspece": "RXP",
+        "nomComun": "escolier royal",
+        "nomLatin": "rexea prometheoides"
+    },
+    {
+        "codeEspece": "SAG",
+        "nomComun": "sardinelle dorée",
+        "nomLatin": "sardinella gibbosa"
+    },
+    {
+        "codeEspece": "SBX",
+        "nomComun": "dentés, spares, nca (daurades familles)",
+        "nomLatin": "sparidae"
+    },
+    {
+        "codeEspece": "SDM",
+        "nomComun": "sardinelle queue noire",
+        "nomLatin": "sardinella melanura"
+    },
+    {
+        "codeEspece": "SDX",
+        "nomComun": "comètes nca, bankloches (groupe)",
+        "nomLatin": "decapterus spp"
+    },
+    {
+        "codeEspece": "SKH",
+        "nomComun": "requins divers nca (groupe)",
+        "nomLatin": "selachimorpha(pleurotremata)"
+    },
+    {
+        "codeEspece": "SNX",
+        "nomComun": "lutianidés nca (vivaneaux famille)",
+        "nomLatin": "lutjanidae"
+    },
+    {
+        "codeEspece": "SPI",
+        "nomComun": "sigans nca (lapin , marguerite)",
+        "nomLatin": "siganus spp"
+    },
+    {
+        "codeEspece": "SQU",
+        "nomComun": "calamars, encornets nca (groupe)",
+        "nomLatin": "loliginidae, ommastrephidae"
+    },
+    {
+        "codeEspece": "STT",
+        "nomComun": "pastenagues, etc. nca (raies pastenagues - famille)",
+        "nomLatin": "dasyatidae"
+    },
+    {
+        "codeEspece": "SUR",
+        "nomComun": "chirurgiens nca (groupe), licornes ",
+        "nomLatin": "acanthuridae"
+    },
+    {
+        "codeEspece": "THF",
+        "nomComun": "barbures, capitaines nca (famille)",
+        "nomLatin": "polynemidae"
+    },
+    {
+        "codeEspece": "THR",
+        "nomComun": "renards de mer nca (requin renard - genre)",
+        "nomLatin": "alopias spp"
+    },
+    {
+        "codeEspece": "TOD",
+        "nomComun": "torpilles, raies électriq. nca (famille)",
+        "nomLatin": "torpedinidae"
+    },
+    {
+        "codeEspece": "TOX",
+        "nomComun": "cynoglossidés (sole de lachner)",
+        "nomLatin": "cynoglossidae"
+    },
+    {
+        "codeEspece": "TRK",
+        "nomComun": "emissoles, requins-hâ nca (famille)",
+        "nomLatin": "triakidae"
+    },
+    {
+        "codeEspece": "TUN",
+        "nomComun": "thonidés nca (groupe)",
+        "nomLatin": "thunnini"
+    },
+    {
+        "codeEspece": "UFT",
+        "nomComun": "savon à bande jaune",
+        "nomLatin": "aulacocephalus temmincki"
+    },
+    {
+        "codeEspece": "USX",
+        "nomComun": "perroquets (groupe)",
+        "nomLatin": "scarus spp"
+    },
+    {
+        "codeEspece": "VLO",
+        "nomComun": "langoustes diverses nca (famille)",
+        "nomLatin": "palinuridae"
+    },
+    {
+        "codeEspece": "XAX",
+        "nomComun": "anguilles, murènes, congres nca (groupe)",
+        "nomLatin": "anguilliformes"
+    },
+    {
+        "codeEspece": "YBS",
+        "nomComun": "bécune de forster",
+        "nomLatin": "sphyraena forsteri"
+    },
+    {
+        "codeEspece": "YDX",
+        "nomComun": "marignans, cardinal (genre) ",
+        "nomLatin": "myripristis spp"
+    },
+    {
+        "codeEspece": "YKC",
+        "nomComun": "marignan (YKC)",
+        "nomLatin": "lyropecten subnodosus"
+    },
+    {
+        "codeEspece": "YTL",
+        "nomComun": "sériole limon",
+        "nomLatin": "seriola rivoliana"
+    },
+    {
+        "codeEspece": "YYP",
+        "nomComun": "capucin orange",
+        "nomLatin": "mulloidichthys pfluegeri"
+    },
+    {
+        "codeEspece": "OCM",
+        "nomComun": "Eledones communes et musquees",
+        "nomLatin": "Eledone spp"
+    },
+    {
+        "codeEspece": "AJR",
+        "nomComun": "Turbo scabre",
+        "nomLatin": "Bolma rugosa"
+    },
+    {
+        "codeEspece": "ALX",
+        "nomComun": "Lancier longnez",
+        "nomLatin": "Alepisaurus ferox"
+    },
+    {
+        "codeEspece": "ANG",
+        "nomComun": "Baudroie d'Amérique",
+        "nomLatin": "Lophius americanus"
+    },
+    {
+        "codeEspece": "APB",
+        "nomComun": "Esturgeon de Sibérie",
+        "nomLatin": "Acipenser baerii"
+    },
+    {
+        "codeEspece": "API",
+        "nomComun": "Holbiches",
+        "nomLatin": "Apristurus spp"
+    },
+    {
+        "codeEspece": "ARG",
+        "nomComun": "Argentines",
+        "nomLatin": "Argentina spp"
+    },
+    {
+        "codeEspece": "ARM",
+        "nomComun": "Arénicole",
+        "nomLatin": "Arenicola marina"
+    },
+    {
+        "codeEspece": "ATB",
+        "nomComun": "Joël",
+        "nomLatin": "Atherina boyeri"
+    },
+    {
+        "codeEspece": "AVF",
+        "nomComun": "Anguille du Tanganyika",
+        "nomLatin": "Afromastacembelus flavidus"
+    },
+    {
+        "codeEspece": "AXZ",
+        "nomComun": "Murène de Bloch",
+        "nomLatin": "Gymnothorax spp"
+    },
+    {
+        "codeEspece": "AYG",
+        "nomComun": "Mérou élégant",
+        "nomLatin": "Anyperodon leucogrammicus"
+    },
+    {
+        "codeEspece": "AZS",
+        "nomComun": "Mâchoiron bressou, Ti gueule",
+        "nomLatin": "Aspistor quadriscutis"
+    },
+    {
+        "codeEspece": "BAI",
+        "nomComun": "Batoïdes nca",
+        "nomLatin": "Batoidimorpha (Hypotremata)"
+    },
+    {
+        "codeEspece": "BAQ",
+        "nomComun": "Bécune à queue jaune",
+        "nomLatin": "Sphyraena flavicauda"
+    },
+    {
+        "codeEspece": "BAZ",
+        "nomComun": "Bécunes, barracudas, nca",
+        "nomLatin": "Sphyraenidae"
+    },
+    {
+        "codeEspece": "BBS",
+        "nomComun": "Rascasse brune",
+        "nomLatin": "Scorpaena porcus"
+    },
+    {
+        "codeEspece": "BDK",
+        "nomComun": "Baliste clown",
+        "nomLatin": "Balistoides conspicillum"
+    },
+    {
+        "codeEspece": "BEB",
+        "nomComun": "Mâchoiron coco",
+        "nomLatin": "Bagre bagre"
+    },
+    {
+        "codeEspece": "BEL",
+        "nomComun": "Bélouga",
+        "nomLatin": "Delphinapterus leucas"
+    },
+    {
+        "codeEspece": "BHA",
+        "nomComun": "Demi-bec balaou",
+        "nomLatin": "Hemiramphus balao"
+    },
+    {
+        "codeEspece": "BHY",
+        "nomComun": "Raies bathyraja nca",
+        "nomLatin": "Bathyraja spp"
+    },
+    {
+        "codeEspece": "BIG",
+        "nomComun": "Beauclaires nca",
+        "nomLatin": "Priacanthus spp"
+    },
+    {
+        "codeEspece": "BOR",
+        "nomComun": "Sangliers nca",
+        "nomLatin": "Caproidae"
+    },
+    {
+        "codeEspece": "BPF",
+        "nomComun": "Bagre laulao, Torche",
+        "nomLatin": "Brachyplatystoma filamentosum"
+    },
+    {
+        "codeEspece": "BPI",
+        "nomComun": "Mendole",
+        "nomLatin": "Spicara maena"
+    },
+    {
+        "codeEspece": "BPT",
+        "nomComun": "Bagre vaillant, Poucici",
+        "nomLatin": "Brachyplatystoma vaillanti"
+    },
+    {
+        "codeEspece": "BSE",
+        "nomComun": "Bars nca",
+        "nomLatin": "Dicentrarchus spp"
+    },
+    {
+        "codeEspece": "BTS",
+        "nomComun": "Aiguille crocodile",
+        "nomLatin": "Tylosurus crocodilus"
+    },
+    {
+        "codeEspece": "BXF",
+        "nomComun": "Coffres nca",
+        "nomLatin": "Ostraciidae"
+    },
+    {
+        "codeEspece": "BZX",
+        "nomComun": "Bonites nca",
+        "nomLatin": "Sarda spp"
+    },
+    {
+        "codeEspece": "CAD",
+        "nomComun": "Tourteaux nca",
+        "nomLatin": "Cancridae"
+    },
+    {
+        "codeEspece": "CAI",
+        "nomComun": "Caïman à lunettes",
+        "nomLatin": "Caiman crocodilus"
+    },
+    {
+        "codeEspece": "CBM",
+        "nomComun": "Corb commun",
+        "nomLatin": "Sciaena umbra"
+    },
+    {
+        "codeEspece": "CBR",
+        "nomComun": "Serran-chèvre",
+        "nomLatin": "Serranus cabrilla"
+    },
+    {
+        "codeEspece": "CJC",
+        "nomComun": "Caesio azuror",
+        "nomLatin": "Caesio caerulaurea"
+    },
+    {
+        "codeEspece": "CJX",
+        "nomComun": "Fusiliers nca",
+        "nomLatin": "Caesionidae"
+    },
+    {
+        "codeEspece": "CJZ",
+        "nomComun": "Caesio à croissant",
+        "nomLatin": "Caesio lunaris"
+    },
+    {
+        "codeEspece": "CLU",
+        "nomComun": "Clupéoidés nca",
+        "nomLatin": "Clupeoidei"
+    },
+    {
+        "codeEspece": "CMK",
+        "nomComun": "Castagnole",
+        "nomLatin": "Chromis chromis"
+    },
+    {
+        "codeEspece": "CMR",
+        "nomComun": "Crabe vert de la Méditerranée",
+        "nomLatin": "Carcinus aestuarii"
+    },
+    {
+        "codeEspece": "COL",
+        "nomComun": "Corail Sardaigne",
+        "nomLatin": "Corallium rubrum"
+    },
+    {
+        "codeEspece": "CON",
+        "nomComun": "Strombes nca",
+        "nomLatin": "Strombus spp"
+    },
+    {
+        "codeEspece": "CRB",
+        "nomComun": "Crabe bleu",
+        "nomLatin": "Callinectes sapidus"
+    },
+    {
+        "codeEspece": "CRQ",
+        "nomComun": "Crabe des neiges",
+        "nomLatin": "Chionoecetes opilio"
+    },
+    {
+        "codeEspece": "CRS",
+        "nomComun": "Etrilles nca",
+        "nomLatin": "Portunus spp"
+    },
+    {
+        "codeEspece": "CRX",
+        "nomComun": "Tambours nca",
+        "nomLatin": "Micropogonias spp"
+    },
+    {
+        "codeEspece": "CZM",
+        "nomComun": "Bernard-l'hermite",
+        "nomLatin": "Paguridae"
+    },
+    {
+        "codeEspece": "CZU",
+        "nomComun": "Vieille coq",
+        "nomLatin": "Cephalopholis nigripinnis"
+    },
+    {
+        "codeEspece": "DBO",
+        "nomComun": "Grand dauphin",
+        "nomLatin": "Tursiops truncatus"
+    },
+    {
+        "codeEspece": "DCA",
+        "nomComun": "Squale savate",
+        "nomLatin": "Deania calcea"
+    },
+    {
+        "codeEspece": "DCC",
+        "nomComun": "Comète fine",
+        "nomLatin": "Decapterus macrosoma"
+    },
+    {
+        "codeEspece": "DCO",
+        "nomComun": "Dauphin commun",
+        "nomLatin": "Delphinus delphis"
+    },
+    {
+        "codeEspece": "DIN",
+        "nomComun": "Ver à tube",
+        "nomLatin": "Diopatra neapolitana"
+    },
+    {
+        "codeEspece": "DIO",
+        "nomComun": "Porcs-epics",
+        "nomLatin": "Diodontidae"
+    },
+    {
+        "codeEspece": "DKK",
+        "nomComun": "Tortue luth",
+        "nomLatin": "Dermochelys coriacea"
+    },
+    {
+        "codeEspece": "DOX",
+        "nomComun": "Coryphènes nca",
+        "nomLatin": "Coryphaenidae"
+    },
+    {
+        "codeEspece": "DRR",
+        "nomComun": "Grampus / Dauphin de Risso",
+        "nomLatin": "Grampus griseus"
+    },
+    {
+        "codeEspece": "DST",
+        "nomComun": "Dauphin bleu et blanc",
+        "nomLatin": "Stenella coeruleoalba"
+    },
+    {
+        "codeEspece": "DSZ",
+        "nomComun": "Montres nca",
+        "nomLatin": "Dosinia spp"
+    },
+    {
+        "codeEspece": "EEN",
+        "nomComun": "Mérou lancéolé",
+        "nomLatin": "Epinephelus lanceolatus"
+    },
+    {
+        "codeEspece": "EEO",
+        "nomComun": "Vivaneau royal",
+        "nomLatin": "Etelis oculatus"
+    },
+    {
+        "codeEspece": "EHN",
+        "nomComun": "Rémora commun",
+        "nomLatin": "Echeneis naucrates"
+    },
+    {
+        "codeEspece": "EPP",
+        "nomComun": "Crossie chucumite",
+        "nomLatin": "Centropomus parallelus"
+    },
+    {
+        "codeEspece": "ETR",
+        "nomComun": "Sagre rude",
+        "nomLatin": "Etmopterus princeps"
+    },
+    {
+        "codeEspece": "ETX",
+        "nomComun": "Sagre commun",
+        "nomLatin": "Etmopterus spinax"
+    },
+    {
+        "codeEspece": "FLY",
+        "nomComun": "Exocets nca",
+        "nomLatin": "Exocoetidae"
+    },
+    {
+        "codeEspece": "FMS",
+        "nomComun": "Casque saburon",
+        "nomLatin": "Phalium saburon"
+    },
+    {
+        "codeEspece": "FNT",
+        "nomComun": "Murex tubercule",
+        "nomLatin": "Phyllonotus trunculus"
+    },
+    {
+        "codeEspece": "FOX",
+        "nomComun": "Phycis nca",
+        "nomLatin": "Phycis spp"
+    },
+    {
+        "codeEspece": "FRF",
+        "nomComun": "Poissons d'eau douce nca",
+        "nomLatin": "Osteichthyes"
+    },
+    {
+        "codeEspece": "FRZ",
+        "nomComun": "Auxide et bonitou",
+        "nomLatin": "Auxis thazard, A. rochei"
+    },
+    {
+        "codeEspece": "FUU",
+        "nomComun": "Varech dentelé",
+        "nomLatin": "Fucus serratus"
+    },
+    {
+        "codeEspece": "FUV",
+        "nomComun": "Chone marin",
+        "nomLatin": "Fucus vesiculosus"
+    },
+    {
+        "codeEspece": "FYS",
+        "nomComun": "Nori nca",
+        "nomLatin": "Porphyra spp"
+    },
+    {
+        "codeEspece": "GAM",
+        "nomComun": "Chien islandais",
+        "nomLatin": "Galeus murinus"
+    },
+    {
+        "codeEspece": "GDJ",
+        "nomComun": "Blanches, etc. nca",
+        "nomLatin": "Gerreidae"
+    },
+    {
+        "codeEspece": "GEL",
+        "nomComun": "Algues gélidium",
+        "nomLatin": "Gelidium spp"
+    },
+    {
+        "codeEspece": "SDS",
+        "nomComun": "EMISSOLE TACHETEE",
+        "nomLatin": "Mustelus asterias"
+    },
+    {
+        "codeEspece": "GEQ",
+        "nomComun": "Gelidium imperial",
+        "nomLatin": "Gelidium corneum"
+    },
+    {
+        "codeEspece": "GES",
+        "nomComun": "Escolier serpent",
+        "nomLatin": "Gempylus serpens"
+    },
+    {
+        "codeEspece": "GEU",
+        "nomComun": "Lippu tricroupia, Croupia",
+        "nomLatin": "Genyatremus luteus"
+    },
+    {
+        "codeEspece": "GSK",
+        "nomComun": "Laimargue du Groenland",
+        "nomLatin": "Somniosus microcephalus"
+    },
+    {
+        "codeEspece": "GUP",
+        "nomComun": "Squale-chagrin commun",
+        "nomLatin": "Centrophorus granulosus"
+    },
+    {
+        "codeEspece": "HAX",
+        "nomComun": "Demi-becs nca",
+        "nomLatin": "Hemiramphus spp"
+    },
+    {
+        "codeEspece": "HLZ",
+        "nomComun": "Spaghetti de mer",
+        "nomLatin": "Himanthalia elongata"
+    },
+    {
+        "codeEspece": "HOO",
+        "nomComun": "Marignan coq",
+        "nomLatin": "Holocentrus adscensionis"
+    },
+    {
+        "codeEspece": "HPN",
+        "nomComun": "Bagre paysan, Jamais goûté",
+        "nomLatin": "Hypophthalmus edentatus"
+    },
+    {
+        "codeEspece": "HSL",
+        "nomComun": "Goret",
+        "nomLatin": "Hypostomus plecostomus"
+    },
+    {
+        "codeEspece": "HWX",
+        "nomComun": "Gorette",
+        "nomLatin": "Haemulon spp"
+    },
+    {
+        "codeEspece": "IEW",
+        "nomComun": "Gaterin noir",
+        "nomLatin": "Plectorhinchus gibbosus"
+    },
+    {
+        "codeEspece": "IMS",
+        "nomComun": "Mousse perle",
+        "nomLatin": "Chondrus crispus"
+    },
+    {
+        "codeEspece": "ISB",
+        "nomComun": "Squalelet féroce",
+        "nomLatin": "Isistius brasiliensis"
+    },
+    {
+        "codeEspece": "JAX",
+        "nomComun": "Chinchards noirs nca",
+        "nomLatin": "Trachurus spp"
+    },
+    {
+        "codeEspece": "JCX",
+        "nomComun": "Crabes araignées Maja nca",
+        "nomLatin": "Maja spp"
+    },
+    {
+        "codeEspece": "JCZ",
+        "nomComun": "Labre clown",
+        "nomLatin": "Coris aygula"
+    },
+    {
+        "codeEspece": "JHX",
+        "nomComun": "Moles,poissons-lunes nca(Famil.)",
+        "nomLatin": "Molidae"
+    },
+    {
+        "codeEspece": "KDF",
+        "nomComun": "Crepidule",
+        "nomLatin": "Crepidula fornicata"
+    },
+    {
+        "codeEspece": "KJT",
+        "nomComun": "Codium tomenteux",
+        "nomLatin": "Codium tomentosum"
+    },
+    {
+        "codeEspece": "KPC",
+        "nomComun": "Crabe moro",
+        "nomLatin": "Carpilius corallinus"
+    },
+    {
+        "codeEspece": "KQN",
+        "nomComun": "Actinie pourpre, tomate de mer",
+        "nomLatin": "Actinia equina"
+    },
+    {
+        "codeEspece": "KRX",
+        "nomComun": "Krill antarctique nca",
+        "nomLatin": "Euphausia spp"
+    },
+    {
+        "codeEspece": "LCX",
+        "nomComun": "Labre capitaine",
+        "nomLatin": "Lachnolaimus maximus"
+    },
+    {
+        "codeEspece": "LEN",
+        "nomComun": "Empereur tidents",
+        "nomLatin": "Lethrinus microdon"
+    },
+    {
+        "codeEspece": "LFT",
+        "nomComun": "Coffre bossu",
+        "nomLatin": "Lactophrys trigonus"
+    },
+    {
+        "codeEspece": "LHV",
+        "nomComun": "Capitaine boxu",
+        "nomLatin": "Lethrinus variegatus"
+    },
+    {
+        "codeEspece": "LJN",
+        "nomComun": "Vivaneau sorbe",
+        "nomLatin": "Lutjanus analis"
+    },
+    {
+        "codeEspece": "LJU",
+        "nomComun": "Vivaneau oreille noire",
+        "nomLatin": "Lutjanus buccanella"
+    },
+    {
+        "codeEspece": "LKV",
+        "nomComun": "Tortue olivatre",
+        "nomLatin": "Lepidochelys olivacea"
+    },
+    {
+        "codeEspece": "LLK",
+        "nomComun": "Poulpe clouté",
+        "nomLatin": "Callistoctopus arakawai"
+    },
+    {
+        "codeEspece": "LLY",
+        "nomComun": "Callianasse matchotte",
+        "nomLatin": "Callianassa tyrrhena"
+    },
+    {
+        "codeEspece": "LOP",
+        "nomComun": "Lophote",
+        "nomLatin": "Lophotus capellei"
+    },
+    {
+        "codeEspece": "LOT",
+        "nomComun": "Thon mignon",
+        "nomLatin": "Thunnus tonggol"
+    },
+    {
+        "codeEspece": "LOX",
+        "nomComun": "Langoustes, homards nca",
+        "nomLatin": "Reptantia"
+    },
+    {
+        "codeEspece": "LPZ",
+        "nomComun": "Patelles nca",
+        "nomLatin": "Patella spp"
+    },
+    {
+        "codeEspece": "LQR",
+        "nomComun": "Patelle ponctuée",
+        "nomLatin": "Patella rustica"
+    },
+    {
+        "codeEspece": "LQX",
+        "nomComun": "Laminaire saccharine",
+        "nomLatin": "Saccharina latissima"
+    },
+    {
+        "codeEspece": "LTS",
+        "nomComun": "Empereur lentille",
+        "nomLatin": "Lethrinus lentjan"
+    },
+    {
+        "codeEspece": "MAM",
+        "nomComun": "Mammifères aquatiques nca",
+        "nomLatin": "Mammalia"
+    },
+    {
+        "codeEspece": "MAX",
+        "nomComun": "Maquereaux nca",
+        "nomLatin": "Scombridae"
+    },
+    {
+        "codeEspece": "MFZ",
+        "nomComun": "Mouron",
+        "nomLatin": "Marphysa sanguinea"
+    },
+    {
+        "codeEspece": "MLN",
+        "nomComun": "Vivaneau plat",
+        "nomLatin": "Macolor niger"
+    },
+    {
+        "codeEspece": "MOL",
+        "nomComun": "Mollusques marins nca",
+        "nomLatin": "Mollusca"
+    },
+    {
+        "codeEspece": "MQX",
+        "nomComun": "Mactre coralline",
+        "nomLatin": "Mactra corallina"
+    },
+    {
+        "codeEspece": "MRW",
+        "nomComun": "Poisson-lune lancéolé",
+        "nomLatin": "Masturus lanceolatus"
+    },
+    {
+        "codeEspece": "MSD",
+        "nomComun": "Comète maquereau",
+        "nomLatin": "Decapterus macarellus"
+    },
+    {
+        "codeEspece": "MSM",
+        "nomComun": "Moule méditerranéenne",
+        "nomLatin": "Mytilus galloprovincialis"
+    },
+    {
+        "codeEspece": "MUS",
+        "nomComun": "Moule commune",
+        "nomLatin": "Mytilus edulis"
+    },
+    {
+        "codeEspece": "MUX",
+        "nomComun": "Rougets nca",
+        "nomLatin": "Mullus spp"
+    },
+    {
+        "codeEspece": "MVJ",
+        "nomComun": "Baudroie pêcheuse",
+        "nomLatin": "Lophius gastrophysus"
+    },
+    {
+        "codeEspece": "MVT",
+        "nomComun": "Gigartine",
+        "nomLatin": "Mastocarpus stellatus"
+    },
+    {
+        "codeEspece": "MWA",
+        "nomComun": "Mye nca",
+        "nomLatin": "Mya spp"
+    },
+    {
+        "codeEspece": "MXI",
+        "nomComun": "Crabe royal des Caraïbes",
+        "nomLatin": "Mithrax spinosissimus"
+    },
+    {
+        "codeEspece": "MXT",
+        "nomComun": "Araignée portuaire",
+        "nomLatin": "Mithrax armatus"
+    },
+    {
+        "codeEspece": "NED",
+        "nomComun": "Aiguilles nca",
+        "nomLatin": "Tylosurus spp"
+    },
+    {
+        "codeEspece": "NEH",
+        "nomComun": "Gravette blanche",
+        "nomLatin": "Nephtys hombergii"
+    },
+    {
+        "codeEspece": "NGH",
+        "nomComun": "Carangue tapir",
+        "nomLatin": "Carangoides chrysophrys"
+    },
+    {
+        "codeEspece": "NGR",
+        "nomComun": "Carangue sap-sap",
+        "nomLatin": "Carangoides armatus"
+    },
+    {
+        "codeEspece": "NLG",
+        "nomComun": "Langouste brésilienne",
+        "nomLatin": "Panulirus guttatus"
+    },
+    {
+        "codeEspece": "OBM",
+        "nomComun": "Sauteur talang, Lubine",
+        "nomLatin": "Scomberoides commersonnianus"
+    },
+    {
+        "codeEspece": "OBN",
+        "nomComun": "Lavignon poivre",
+        "nomLatin": "Scrobicularia plana"
+    },
+    {
+        "codeEspece": "OFD",
+        "nomComun": "Maldague robuste",
+        "nomLatin": "Choerodon robustus"
+    },
+    {
+        "codeEspece": "OMZ",
+        "nomComun": "Encornets nca",
+        "nomLatin": "Ommastrephidae"
+    },
+    {
+        "codeEspece": "PAL",
+        "nomComun": "Crevettes palémonides nca",
+        "nomLatin": "Palaemonidae"
+    },
+    {
+        "codeEspece": "PAX",
+        "nomComun": "Pageots nca",
+        "nomLatin": "Pagellus spp"
+    },
+    {
+        "codeEspece": "PEO",
+        "nomComun": "Alose-écaille indienne",
+        "nomLatin": "Pellona ditchela"
+    },
+    {
+        "codeEspece": "PHR",
+        "nomComun": "Marsouin commun",
+        "nomLatin": "Phocoena phocoena"
+    },
+    {
+        "codeEspece": "PIC",
+        "nomComun": "Mendoles, picarels nca",
+        "nomLatin": "Spicara spp"
+    },
+    {
+        "codeEspece": "PIW",
+        "nomComun": "Globicéphale commun",
+        "nomLatin": "Globicephala melas"
+    },
+    {
+        "codeEspece": "PNA",
+        "nomComun": "Poisson-papier guyanais",
+        "nomLatin": "Odontognathus mucronatus"
+    },
+    {
+        "codeEspece": "PRG",
+        "nomComun": "Daubenets",
+        "nomLatin": "Calamus spp"
+    },
+    {
+        "codeEspece": "PSK",
+        "nomComun": "Requin crocodile",
+        "nomLatin": "Pseudocarcharias kamoharai"
+    },
+    {
+        "codeEspece": "PUX",
+        "nomComun": "Poissons globes",
+        "nomLatin": "Tetraodontidae"
+    },
+    {
+        "codeEspece": "PZO",
+        "nomComun": "Rascasse volante",
+        "nomLatin": "Pterois volitans"
+    },
+    {
+        "codeEspece": "QDC",
+        "nomComun": "Beauclaire pivoine",
+        "nomLatin": "Priacanthus blochii"
+    },
+    {
+        "codeEspece": "QUB",
+        "nomComun": "Aiguillat coq",
+        "nomLatin": "Squalus blainville"
+    },
+    {
+        "codeEspece": "QUE",
+        "nomComun": "Sauteurs",
+        "nomLatin": "Scomberoides spp"
+    },
+    {
+        "codeEspece": "RAG",
+        "nomComun": "Maquereau des Indes",
+        "nomLatin": "Rastrelliger kanagurta"
+    },
+    {
+        "codeEspece": "RHP",
+        "nomComun": "Main de mer",
+        "nomLatin": "Palmaria palmata"
+    },
+    {
+        "codeEspece": "RQF",
+        "nomComun": "Capucin à tâche rouge",
+        "nomLatin": "Parupeneus heptacanthus"
+    },
+    {
+        "codeEspece": "RRG",
+        "nomComun": "Regalecs",
+        "nomLatin": "Regalecidae"
+    },
+    {
+        "codeEspece": "RSE",
+        "nomComun": "Rascasse rouge",
+        "nomLatin": "Scorpaena scrofa"
+    },
+    {
+        "codeEspece": "RSK",
+        "nomComun": "Requins nca",
+        "nomLatin": "Carcharhinidae"
+    },
+    {
+        "codeEspece": "RZV",
+        "nomComun": "Ranzania",
+        "nomLatin": "Ranzania laevis"
+    },
+    {
+        "codeEspece": "SAS",
+        "nomComun": "Harengules",
+        "nomLatin": "Harengula spp"
+    },
+    {
+        "codeEspece": "SEC",
+        "nomComun": "Phoque veau marin",
+        "nomLatin": "Phoca vitulina"
+    },
+    {
+        "codeEspece": "SEG",
+        "nomComun": "Phoque gris",
+        "nomLatin": "Halichoerus grypus"
+    },
+    {
+        "codeEspece": "SEW",
+        "nomComun": "Lamantin de l'amazone",
+        "nomLatin": "Trichechus inunguis"
+    },
+    {
+        "codeEspece": "SHO",
+        "nomComun": "Chien espagnol",
+        "nomLatin": "Galeus melastomus"
+    },
+    {
+        "codeEspece": "SIU",
+        "nomComun": "Bibi, siponcle",
+        "nomLatin": "Sipunculus nudus"
+    },
+    {
+        "codeEspece": "SKI",
+        "nomComun": "Jaraqui",
+        "nomLatin": "Semaprochilodus insignis"
+    },
+    {
+        "codeEspece": "SLC",
+        "nomComun": "Langouste blanche",
+        "nomLatin": "Panulirus argus"
+    },
+    {
+        "codeEspece": "SLP",
+        "nomComun": "Léopard de mer",
+        "nomLatin": "Hydrurga leptonyx"
+    },
+    {
+        "codeEspece": "SLV",
+        "nomComun": "Langoustes tropicales nca",
+        "nomLatin": "Panulirus spp"
+    },
+    {
+        "codeEspece": "SOM",
+        "nomComun": "Silure glane",
+        "nomLatin": "Silurus glanis"
+    },
+    {
+        "codeEspece": "SOX",
+        "nomComun": "Soles nca",
+        "nomLatin": "Soleidae"
+    },
+    {
+        "codeEspece": "SPF",
+        "nomComun": "Makaire bécune",
+        "nomLatin": "Tetrapturus pfluegeri"
+    },
+    {
+        "codeEspece": "SRG",
+        "nomComun": "Sars, sparaillons nca",
+        "nomLatin": "Diplodus spp"
+    },
+    {
+        "codeEspece": "SRK",
+        "nomComun": "Serran écriture",
+        "nomLatin": "Serranus scriba"
+    },
+    {
+        "codeEspece": "SRS",
+        "nomComun": "Phoque de Ross",
+        "nomLatin": "Ommatophoca rossii"
+    },
+    {
+        "codeEspece": "SVG",
+        "nomComun": "Rascasse serran",
+        "nomLatin": "Setarches guentheri"
+    },
+    {
+        "codeEspece": "SWP",
+        "nomComun": "Dilsea charnue",
+        "nomLatin": "Dilsea carnosa"
+    },
+    {
+        "codeEspece": "SWQ",
+        "nomComun": "Délesseria rouge",
+        "nomLatin": "Delesseria sanguinea"
+    },
+    {
+        "codeEspece": "TFB",
+        "nomComun": "Crapaud guyanais",
+        "nomLatin": "Batrachoides surinamensis"
+    },
+    {
+        "codeEspece": "TRX",
+        "nomComun": "Poissons-rubans",
+        "nomLatin": "Trachipteridae"
+    },
+    {
+        "codeEspece": "TTH",
+        "nomComun": "Tortue imbriquée",
+        "nomLatin": "Eretmochelys imbricata"
+    },
+    {
+        "codeEspece": "TTL",
+        "nomComun": "Tortue caouanne",
+        "nomLatin": "Caretta caretta"
+    },
+    {
+        "codeEspece": "TTX",
+        "nomComun": "Tortues de mer nca",
+        "nomLatin": "Testudinata"
+    },
+    {
+        "codeEspece": "TUG",
+        "nomComun": "Tortue verte",
+        "nomLatin": "Chelonia mydas"
+    },
+    {
+        "codeEspece": "TUS",
+        "nomComun": "Thons Thunnus nca",
+        "nomLatin": "Thunnus spp"
+    },
+    {
+        "codeEspece": "TWV",
+        "nomComun": "Oursin blanc",
+        "nomLatin": "Tripneustes ventricosus"
+    },
+    {
+        "codeEspece": "UCU",
+        "nomComun": "Fucus",
+        "nomLatin": "Fucus spp"
+    },
+    {
+        "codeEspece": "UDP",
+        "nomComun": "Wakamé",
+        "nomLatin": "Undaria pinnatifida"
+    },
+    {
+        "codeEspece": "UHL",
+        "nomComun": "Calmar tonnelet",
+        "nomLatin": "Sepioteuthis lessoniana"
+    },
+    {
+        "codeEspece": "UHQ",
+        "nomComun": "Poisson scorpion",
+        "nomLatin": "Pterois miles"
+    },
+    {
+        "codeEspece": "UHW",
+        "nomComun": "CALMARS SEPIOTEUTHIS NCA",
+        "nomLatin": "Sepioteuthis spp"
+    },
+    {
+        "codeEspece": "ULG",
+        "nomComun": "Perroquet des Carolines",
+        "nomLatin": "Calotomus carolinus"
+    },
+    {
+        "codeEspece": "URM",
+        "nomComun": "Oursin-pierre",
+        "nomLatin": "Paracentrotus lividus"
+    },
+    {
+        "codeEspece": "UUS",
+        "nomComun": "Perroquet",
+        "nomLatin": "Chlorurus sordidus"
+    },
+    {
+        "codeEspece": "UVD",
+        "nomComun": "Perroquet commun",
+        "nomLatin": "Scarus psittacus"
+    },
+    {
+        "codeEspece": "UVU",
+        "nomComun": "Laitue de mer",
+        "nomLatin": "Ulva lactuca"
+    },
+    {
+        "codeEspece": "UWC",
+        "nomComun": "Poisson-perroquet vert",
+        "nomLatin": "Chlorurus enneacanthus"
+    },
+    {
+        "codeEspece": "VEX",
+        "nomComun": "Fausses palourdes",
+        "nomLatin": "Venus spp"
+    },
+    {
+        "codeEspece": "VMA",
+        "nomComun": "Maquereau espagnol atlantique",
+        "nomLatin": "Scomber colias"
+    },
+    {
+        "codeEspece": "WBM",
+        "nomComun": "Mostelle tropicale, Anguil morel",
+        "nomLatin": "Brotula multibarbata"
+    },
+    {
+        "codeEspece": "WHA",
+        "nomComun": "Cernier de Nouvelle-Zélande",
+        "nomLatin": "Polyprion oxygeneios"
+    },
+    {
+        "codeEspece": "WIM",
+        "nomComun": "Lamantin des Caraïbes",
+        "nomLatin": "Trichechus manatus"
+    },
+    {
+        "codeEspece": "WOR",
+        "nomComun": "Vers marins",
+        "nomLatin": "Polychaeta"
+    },
+    {
+        "codeEspece": "WSH",
+        "nomComun": "Grand requin blanc",
+        "nomLatin": "Carcharodon carcharias"
+    },
+    {
+        "codeEspece": "YEL",
+        "nomComun": "Limande à queue jaune",
+        "nomLatin": "Limanda ferruginea"
+    },
+    {
+        "codeEspece": "YFX",
+        "nomComun": "Crénilabres nca",
+        "nomLatin": "Symphodus spp"
+    },
+    {
+        "codeEspece": "ZGP",
+        "nomComun": "Targeur",
+        "nomLatin": "Zeugopterus punctatus"
+    }
+]

@@ -21,6 +21,7 @@ model MvtTracabapp {
   acheteur  String
   criee String
   numLot String
+  espece Especes?  @relation(fields: [faoCodeEspece], references: [codeEspece])
   faoCodeEspece String
   especeNomCommun String
   especeNomScientifique String
@@ -40,3 +41,14 @@ model MvtTracabapp {
   nomNavire String
 }
 
+model Especes{
+
+    codeEspece String  @unique
+    nomCommun String
+    nomLatin String
+    image String?
+    mvt MvtTracabapp[]
+
+
+
+}
