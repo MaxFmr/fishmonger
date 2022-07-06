@@ -87,6 +87,34 @@ const readPersonas = async (req: NextApiRequest, res: NextApiResponse) => {
           },
         });
       });
+      const driver = require('bigchaindb-driver');
+
+      const alice = new driver.Ed25519Keypair();
+      const conn = new driver.Connection('https://test.ipdb.io/api/v1/');
+      const createTransaction = (lot: object) => {
+        const tx = driver.Transaction.makeCreateTransaction(
+          lot,
+          null,
+          [
+            driver.Transaction.makeOutput(
+              driver.Transaction.makeEd25519Condition(alice.publicKey)
+            ),
+          ],
+          alice.publicKey
+        );
+        const txSigned = driver.Transaction.signTransaction(
+          tx,
+          alice.privateKey
+        );
+        conn.postTransactionCommit(txSigned);
+        console.log(txSigned);
+
+        return txSigned;
+      };
+
+      response.data.lignes.map(async (lot: IncomingBatch) => {
+        createTransaction(lot);
+      });
 
       res.status(200).json(response.data);
       res.end();

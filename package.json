@@ -18,6 +18,8 @@
     "@mui/material": "^5.8.1",
     "@prisma/client": "3.14.0",
     "axios": "^0.27.2",
+    "bigchaindb-driver": "^4.3.0",
+    "bigchaindb-orm": "^3.0.3",
     "next": "12.1.6",
     "react": "18.1.0",
     "react-dom": "18.1.0"
