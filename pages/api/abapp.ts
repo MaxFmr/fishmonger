@@ -2,7 +2,6 @@ import type { NextApiRequest, NextApiResponse } from 'next';
 
 import axios from 'axios';
 import { Buffer } from 'buffer';
-import prisma from '../../prisma/index';
 
 interface IncomingBatch {
   lha_prix_kg: number;
@@ -29,7 +28,7 @@ interface IncomingBatch {
   nav_marquage_ext: string;
 }
 
-const readPersonas = async (req: NextApiRequest, res: NextApiResponse) => {
+const setBatch = async (req: NextApiRequest, res: NextApiResponse) => {
   if (req.method === 'POST') {
     let data = `${req.body.apiEmail}:${req.body.apiPassword}`;
     let buff = Buffer.from(data);
@@ -58,65 +57,38 @@ const readPersonas = async (req: NextApiRequest, res: NextApiResponse) => {
         }
       );
 
-      response.data.lignes.map(async (lot: IncomingBatch) => {
-        const mvt = await prisma.mvtTracabapp.create({
-          data: {
-            id2: `${lot.lha_date}${lot.lha_heure}${lot.cri_code}${lot.lha_num_lot}`,
-            date: lot.lha_date,
-            heure: lot.lha_heure,
-            acheteur: lot.cpt_code_acheteur,
-            criee: lot.cri_code,
-            numLot: lot.lha_num_lot,
-            faoCodeEspece: lot.esp_code_fao,
-            especeNomCommun: lot.esp_nom_commun,
-            especeNomScientifique: lot.esp_nom_scientifique,
-            calibre: lot.cal_code,
-            codePresentation: lot.pre_code,
-            codeFraicheur: lot.fra_code,
-            poidsLot: lot.lha_poids,
-            typeBac: lot.lha_type_bac,
-            nombreBacs: lot.lha_nbr_bac,
-            prixKg: lot.lha_prix_kg,
-            codeTransaction: lot.lha_code_transaction,
-            montantLot: lot.lha_prix_lot,
-            codeEngin: lot.eng_code,
-            zonePeche: lot.lha_zone_de_peche,
-            codeCfrNavire: lot.nav_code_cfr,
-            marquageExtNavire: lot.nav_marquage_ext,
-            nomNavire: lot['nav_nom '],
-          },
-        });
-      });
       const driver = require('bigchaindb-driver');
 
-      const alice = new driver.Ed25519Keypair();
+      const buyer = new driver.Ed25519Keypair();
       const conn = new driver.Connection('https://test.ipdb.io/api/v1/');
+
       const createTransaction = (lot: object) => {
         const tx = driver.Transaction.makeCreateTransaction(
           lot,
           null,
           [
             driver.Transaction.makeOutput(
-              driver.Transaction.makeEd25519Condition(alice.publicKey)
+              driver.Transaction.makeEd25519Condition(buyer.publicKey)
             ),
           ],
-          alice.publicKey
+          buyer.publicKey
         );
         const txSigned = driver.Transaction.signTransaction(
           tx,
-          alice.privateKey
+          buyer.privateKey
         );
         conn.postTransactionCommit(txSigned);
-        console.log(txSigned);
 
         return txSigned;
       };
 
-      response.data.lignes.map(async (lot: IncomingBatch) => {
-        createTransaction(lot);
+      const tab: IncomingBatch[] = [];
+      response.data.lignes.map((lot: IncomingBatch) => {
+        tab.push(createTransaction(lot));
       });
 
-      res.status(200).json(response.data);
+      res.status(200).json(tab);
+
       res.end();
     } catch (error: any) {
       res.status(400).send(error.message);
@@ -124,4 +96,35 @@ const readPersonas = async (req: NextApiRequest, res: NextApiResponse) => {
   }
 };
 
-export default readPersonas;
+export default setBatch;
+
+// PG DB save :
+// response.data.lignes.map(async (lot: IncomingBatch) => {
+//   const mvt = await prisma.mvtTracabapp.create({
+//     data: {
+//       id2: `${lot.lha_date}${lot.lha_heure}${lot.cri_code}${lot.lha_num_lot}`,
+//       date: lot.lha_date,
+//       heure: lot.lha_heure,
+//       acheteur: lot.cpt_code_acheteur,
+//       criee: lot.cri_code,
+//       numLot: lot.lha_num_lot,
+//       faoCodeEspece: lot.esp_code_fao,
+//       especeNomCommun: lot.esp_nom_commun,
+//       especeNomScientifique: lot.esp_nom_scientifique,
+//       calibre: lot.cal_code,
+//       codePresentation: lot.pre_code,
+//       codeFraicheur: lot.fra_code,
+//       poidsLot: lot.lha_poids,
+//       typeBac: lot.lha_type_bac,
+//       nombreBacs: lot.lha_nbr_bac,
+//       prixKg: lot.lha_prix_kg,
+//       codeTransaction: lot.lha_code_transaction,
+//       montantLot: lot.lha_prix_lot,
+//       codeEngin: lot.eng_code,
+//       zonePeche: lot.lha_zone_de_peche,
+//       codeCfrNavire: lot.nav_code_cfr,
+//       marquageExtNavire: lot.nav_marquage_ext,
+//       nomNavire: lot['nav_nom '],
+//     },
+//   });
+// });

@@ -1,11 +1,12 @@
 import { TextField, Button, Box } from '@mui/material';
 import { useState } from 'react';
 import axios from 'axios';
+import { Block } from '../custom_types/bigChainContent';
 
 const Batches = (): JSX.Element => {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
-  const [response, setResponse] = useState(null);
+  const [response, setResponse] = useState([]);
 
   const onSubmit = async () => {
     try {
@@ -17,6 +18,7 @@ const Batches = (): JSX.Element => {
         }
       );
       setResponse(response.data);
+      console.log(response.data);
     } catch (error: any) {
       console.log(error.message);
     }
@@ -30,8 +32,7 @@ const Batches = (): JSX.Element => {
             width: '30%',
             display: 'flex',
             flexDirection: 'column',
-          }}
-        >
+          }}>
           {' '}
           <h1>Lots du jour</h1>
           <TextField
@@ -60,7 +61,13 @@ const Batches = (): JSX.Element => {
           <Button onClick={() => onSubmit()}>Envoyer</Button>
         </Box>
 
-        <span>{response ? 'Go check your Db !' : null}</span>
+        <span>
+          {response.length
+            ? response.map((p: Block) => {
+                return <div>{p.id}</div>;
+              })
+            : ''}
+        </span>
       </Box>
     </div>
   );
