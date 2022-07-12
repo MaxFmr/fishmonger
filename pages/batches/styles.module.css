@@ -1,0 +1,50 @@
+.emailPw {
+  display: flex;
+  width: 30%;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.img {
+  height: 100px;
+  width: 100px;
+  object-fit: contain;
+}
+
+.batchCard {
+  width: 200px;
+  border: solid mediumturquoise 1px;
+  margin: 2%;
+  padding: 5px;
+  border-radius: 15px;
+  word-wrap: break-word;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: column;
+}
+
+.btn {
+  margin: 5px;
+  height: 380px;
+  overflow: scroll;
+}
+
+.input {
+  height: 40px;
+  padding: 15px;
+  margin: 5px;
+  font-size: large;
+}
+
+.subBtn {
+  width: 110px;
+  margin-left: 35%;
+  margin-top: 20px;
+}
+.batchList {
+  width: 53%;
+}
