@@ -1,12 +1,11 @@
 import type { NextApiRequest, NextApiResponse } from 'next';
 
 import axios from 'axios';
-import { IncomingBatch } from '../custom_types/bigChainContent';
+import { IncomingBatch } from '../../custom_types/bigChainContent';
 import { Buffer } from 'buffer';
+import { driver, buyer, conn } from '../../bigchain/driverInstance';
 
 const setBatch = async (req: NextApiRequest, res: NextApiResponse) => {
-  console.log(req.body);
-
   if (req.method === 'POST') {
     let data = `${req.body.apiEmail}:${req.body.apiPassword}`;
     let buff = Buffer.from(data);
@@ -36,12 +35,6 @@ const setBatch = async (req: NextApiRequest, res: NextApiResponse) => {
           },
         }
       );
-
-      const driver = require('bigchaindb-driver');
-
-      const buyer = new driver.Ed25519Keypair();
-      const conn = new driver.Connection('https://test.ipdb.io/api/v1/');
-
       const createTransaction = (lot: object) => {
         const tx = driver.Transaction.makeCreateTransaction(
           lot,

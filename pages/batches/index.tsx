@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import axios from 'axios';
-import { Block } from '../custom_types/bigChainContent';
+import { Block } from '../../custom_types/bigChainContent';
 import styles from './styles.module.css';
 const Batches = (): JSX.Element => {
   const [email, setEmail] = useState('');
